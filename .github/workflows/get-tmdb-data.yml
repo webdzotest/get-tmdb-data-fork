@@ -35,6 +35,6 @@ jobs:
           body: TMDB Person data for some persons
           branch: tmdb-person-data-${{ steps.date.outputs.date }}
           add-paths: |
-            app/tmdbdata/*.csv
+            tmdbdata/*.csv
 
       
