@@ -1,0 +1,40 @@
+name: get tmdb data
+on:  
+  workflow_dispatch:
+
+jobs:
+  get-tmdb-persons-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      
+      - name: Set Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+
+      - name: Run JS
+        shell: bash
+        working-directory: jobs/get-tmdb-data
+        run: |
+          cd ./js && npm install && cd ..
+          node js/index.js && rm ./js/package-lock.json
+
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v4
+        with:
+          base: main
+          title: TMDB Person data
+          body: TMDB Person data for some persons
+          branch: tmdb-person-data-${{ steps.date.outputs.date }}
+          add-paths: |
+            app/tmdbdata/*.csv
+
+      
