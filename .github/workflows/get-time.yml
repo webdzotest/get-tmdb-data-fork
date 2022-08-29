@@ -22,4 +22,4 @@ jobs:
       
       - name: Print datetime
         id: printtime
-        run: echo "tmdb-person-data-${{ steps.date.outputs.cur_datetime }}""
+        run: echo "tmdb-person-data-${{ steps.date.outputs.cur_datetime }}"
