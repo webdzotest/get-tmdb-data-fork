@@ -1,8 +1,8 @@
 const axios = require("axios").default;
 const ObjectsToCsv = require('objects-to-csv');
 const fs = require("fs");
-let filename = "collection-3.json"
-let personRawData = fs.readFileSync(`../../tmdbdata/persons-split/collection-3/${filename}`);
+let filename = "collection-4-a.json"
+let personRawData = fs.readFileSync(`../../tmdbdata/persons-split/collection-4/${filename}`);
 let personData = JSON.parse(personRawData);
 const [, , API_KEY] = process.argv;
 const retries = 5;
