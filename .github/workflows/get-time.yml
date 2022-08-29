@@ -18,7 +18,7 @@ jobs:
 
       - name: Get current date
         id: date
-        run: echo "::set-output name=cur_datetime::$(date +'%Y-%m-%d')"
+        run: echo "::set-output name=cur_datetime::$(date +'%Y-%m-%d-%H_%M_%S')"
       
       - name: Print datetime
         id: printtime
