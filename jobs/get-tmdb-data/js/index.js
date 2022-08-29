@@ -4,8 +4,7 @@ const fs = require("fs");
 let filename = "collection-1.json"
 let personRawData = fs.readFileSync(`../../tmdbdata/persons-split/collection-1/${filename}`);
 let personData = JSON.parse(personRawData);
-const API_KEY = '9a66acc0beec9bb39f8e8dbe989a03b0';
-const API_KEY_GOA = 'fc87d6f0e6562c29dced43366f2258f9';
+const [, , API_KEY] = process.argv;
 const retries = 5;
 const axiosTimeout = 30000; //milliseconds
 
@@ -34,7 +33,7 @@ const getActorsDataFromTmdb = async () => {
   for(let person of personData) {
     let actor_id = person.id;
     try {
-      let response = await axios.get(`https://api.themoviedb.org/3/person/${actor_id}?api_key=${API_KEY_GOA}`, {timeout: axiosTimeout, validateStatus: false});
+      let response = await axios.get(`https://api.themoviedb.org/3/person/${actor_id}?api_key=${API_KEY}`, {timeout: axiosTimeout, validateStatus: false});
       if(response.status == 200) {
         let normalizedData = personNormalizer(response.data);
         actorsData.push(normalizedData);
@@ -45,7 +44,7 @@ const getActorsDataFromTmdb = async () => {
       console.log(err);
       const csv = new ObjectsToCsv(actorsData);
       actorsData = [];
-      await csv.toDisk(`../../app/tmdbdata/actors-data(${csvTime}).csv`, { append: true });
+      await csv.toDisk(`../../tmdbdata/actors-data(${csvTime}).csv`, { append: true });
       setTimeout(()=> { console.log("Waiting for sometime because of some error");}, 10000);
       continue;
     }
@@ -53,7 +52,7 @@ const getActorsDataFromTmdb = async () => {
   let endTime = new Date().toTimeString().slice(0, 8);
   console.log("EndTime::", endTime);
   const csv = new ObjectsToCsv(actorsData);
-  await csv.toDisk(`../../app/tmdbdata/actors-data(${csvTime}).csv`, { append: true });
+  await csv.toDisk(`../../tmdbdata/actors-data(${csvTime}).csv`, { append: true });
   return true;
 };
 
