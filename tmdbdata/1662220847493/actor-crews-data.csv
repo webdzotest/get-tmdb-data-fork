@@ -1,0 +1,729 @@
+name,year,movie_tv_id,movie_tv_name,type,department,job,actor_id
+Frank R. Strayer,1938,1,Blondie,movie,Directing,Director,34170
+Richard Flournoy,1938,1,Blondie,movie,Writing,Screenplay,34171
+Robert Liebmann,1921,2,Der Mann ohne Namen,movie,Writing,Screenplay,2902
+Frederik Fuglsang,1921,2,Der Mann ohne Namen,movie,Camera,Director of Photography,29032
+Georg Jacoby,1921,2,Der Mann ohne Namen,movie,Writing,Screenplay,48035
+Georg Jacoby,1921,2,Der Mann ohne Namen,movie,Directing,Director,48035
+François Truffaut,1962,3,L'amour à vingt ans,movie,Directing,Director,1650
+François Truffaut,1962,3,L'amour à vingt ans,movie,Writing,Writer,1650
+Gérard Brach,1962,3,L'amour à vingt ans,movie,Directing,Assistant Director,2356
+Andrzej Wajda,1962,3,L'amour à vingt ans,movie,Directing,Director,2801
+Georges Delerue,1962,3,L'amour à vingt ans,movie,Sound,Music,3535
+Pierre Roustang,1962,3,L'amour à vingt ans,movie,Production,Producer,3539
+Raoul Coutard,1962,3,L'amour à vingt ans,movie,Camera,Director of Photography,3540
+Suzanne Schiffman,1962,3,L'amour à vingt ans,movie,Directing,Script Supervisor,3583
+Barbara Pec-Ślesicka,1962,3,L'amour à vingt ans,movie,Production,Production Manager,7103
+Claudine Bouché,1962,3,L'amour à vingt ans,movie,Editing,Editor,18223
+Marcel Ophüls,1962,3,L'amour à vingt ans,movie,Directing,Director,19789
+Marcel Ophüls,1962,3,L'amour à vingt ans,movie,Writing,Writer,19789
+Charles L. Bitsch,1962,3,L'amour à vingt ans,movie,Camera,Assistant Camera,25059
+Guy Villette,1962,3,L'amour à vingt ans,movie,Sound,Sound Engineer,26357
+Mario Montuori,1962,3,L'amour à vingt ans,movie,Camera,Director of Photography,31854
+Andrzej Żuławski,1962,3,L'amour à vingt ans,movie,Directing,Second Unit Director,32082
+Toru Takemitsu,1962,3,L'amour à vingt ans,movie,Sound,Music,51808
+Jerzy Lipman,1962,3,L'amour à vingt ans,movie,Camera,Director of Photography,26962
+Jerzy Matuszkiewicz,1962,3,L'amour à vingt ans,movie,Sound,Music,80171
+Shintarō Ishihara,1962,3,L'amour à vingt ans,movie,Directing,Director,139091
+Shintarō Ishihara,1962,3,L'amour à vingt ans,movie,Writing,Writer,139091
+Renzo Rossellini,1962,3,L'amour à vingt ans,movie,Directing,Director,543794
+Renzo Rossellini,1962,3,L'amour à vingt ans,movie,Writing,Writer,543794
+Jerzy Stefan Stawiński,1962,3,L'amour à vingt ans,movie,Writing,Writer,1003232
+Philippe Dussart,1962,3,L'amour à vingt ans,movie,Production,Production Manager,1052402
+Wolf Wirth,1962,3,L'amour à vingt ans,movie,Camera,Director of Photography,1064404
+Halina Nawrocka,1962,3,L'amour à vingt ans,movie,Editing,Editor,1545070
+Shigeo Murata,1962,3,L'amour à vingt ans,movie,Camera,Director of Photography,2005902
+Yvon Samuel,1962,3,L'amour à vingt ans,movie,Writing,Writer,2507348
+Derek Westerlund,2008,4,New World Disorder 9: Never Enough,movie,Directing,Director,112786
+Aki Kaurismäki,1988,6,Ariel,movie,Directing,Director,16767
+Aki Kaurismäki,1988,6,Ariel,movie,Production,Producer,16767
+Aki Kaurismäki,1988,6,Ariel,movie,Writing,Writer,16767
+Timo Salminen,1988,6,Ariel,movie,Camera,Director of Photography,16769
+Raija Talvio,1988,6,Ariel,movie,Editing,Editor,54766
+Risto Karhula,1988,6,Ariel,movie,Art,Production Design,53836
+Tuula Hilkamo,1988,6,Ariel,movie,Costume & Make-Up,Costume Design,54771
+Jaakko Talaskivi,1988,6,Ariel,movie,Production,Production Manager,4831
+Jouko Lumme,1988,6,Ariel,movie,Sound,Sound,16772
+Veikko Aaltonen,1988,6,Ariel,movie,Sound,Sound Assistant,109893
+Juuso Hirvikangas,1988,6,Ariel,movie,Lighting,Gaffer,110756
+Rauli Somerjoki,1988,6,Ariel,movie,Sound,Music,110793
+Pauli Pentti,1988,6,Ariel,movie,Directing,Assistant Director,1034489
+Heikki Ukkonen,1988,6,Ariel,movie,Production,Location Manager,1084612
+Marja-Leena Hukkanen,1988,6,Ariel,movie,Camera,Still Photographer,1303969
+Marja-Leena Hukkanen,1988,6,Ariel,movie,Directing,Script Supervisor,1303969
+Mikko Mattila,1988,6,Ariel,movie,Lighting,Gaffer,1381112
+Olli Varja,1988,6,Ariel,movie,Lighting,Gaffer,1381113
+Olavi Virta,1988,6,Ariel,movie,Sound,Music,1403857
+Sirkka Rautiainen,1988,6,Ariel,movie,Costume & Make-Up,Costume Assistant,1416993
+Heikki Ortamo,1988,6,Ariel,movie,Camera,Assistant Camera,1540906
+Seppo Saarinen,1988,6,Ariel,movie,Crew,Carpenter,1666626
+Outi Hyytinen,1988,6,Ariel,movie,Editing,Assistant Editor,1674075
+Kjell Westman,1988,6,Ariel,movie,Sound,Sound Re-Recording Mixer,1683985
+Timo Markko,1988,6,Ariel,movie,Camera,Assistant Camera,1750241
+Erkki Astala,1988,6,Ariel,movie,Production,Publicist,1760644
+Leena Palmu,1988,6,Ariel,movie,Editing,Negative Cutter,1761904
+Erkki Lume,1988,6,Ariel,movie,Production,Location Manager,1940249
+Timo Nousiainen,1988,6,Ariel,movie,Editing,Colorist,2159272
+Haije Alanoja,1988,6,Ariel,movie,Production,Production Secretary,2159274
+Simo Sulva,1988,6,Ariel,movie,Art,Property Master,2505429
+Taisto Tammi,1988,6,Ariel,movie,Sound,Music,2509155
+Heikki Anttila,1988,6,Ariel,movie,Crew,Carpenter,3416563
+Jukka Anttonen,1988,6,Ariel,movie,Crew,Carpenter,3478267
+Pirjo Laivuori,1988,6,Ariel,movie,Editing,Colorist,3480787
+Aki Kaurismäki,1986,7,Varjoja paratiisissa,movie,Directing,Director,16767
+Aki Kaurismäki,1986,7,Varjoja paratiisissa,movie,Writing,Writer,16767
+Timo Salminen,1986,7,Varjoja paratiisissa,movie,Camera,Director of Photography,16769
+Raija Talvio,1986,7,Varjoja paratiisissa,movie,Editing,Editor,54766
+Tuula Hilkamo,1986,7,Varjoja paratiisissa,movie,Costume & Make-Up,Costume Design,54771
+Mika Kaurismäki,1986,7,Varjoja paratiisissa,movie,Production,Producer,54767
+Jaakko Talaskivi,1986,7,Varjoja paratiisissa,movie,Production,Production Manager,4831
+Jouko Lumme,1986,7,Varjoja paratiisissa,movie,Sound,Sound Editor,16772
+Jouko Lumme,1986,7,Varjoja paratiisissa,movie,Sound,Sound,16772
+Jukka Nykänen,1986,7,Varjoja paratiisissa,movie,Editing,Assistant Editor,94755
+Juuso Hirvikangas,1986,7,Varjoja paratiisissa,movie,Sound,Sound Assistant,110756
+Pauli Pentti,1986,7,Varjoja paratiisissa,movie,Directing,Assistant Director,1034489
+Heikki Ukkonen,1986,7,Varjoja paratiisissa,movie,Production,Location Manager,1084612
+Pertti Hilkamo,1986,7,Varjoja paratiisissa,movie,Art,Production Design,1084614
+Marja-Leena Hukkanen,1986,7,Varjoja paratiisissa,movie,Camera,Still Photographer,1303969
+Marja-Leena Hukkanen,1986,7,Varjoja paratiisissa,movie,Directing,Script Supervisor,1303969
+Mikko Mattila,1986,7,Varjoja paratiisissa,movie,Lighting,Gaffer,1381112
+Olli Varja,1986,7,Varjoja paratiisissa,movie,Lighting,Gaffer,1381113
+Heikki Ortamo,1986,7,Varjoja paratiisissa,movie,Camera,Assistant Camera,1540906
+Kjell Westman,1986,7,Varjoja paratiisissa,movie,Sound,Sound Re-Recording Mixer,1683985
+Timo Markko,1986,7,Varjoja paratiisissa,movie,Camera,Assistant Camera,1750241
+Leena Kouhia,1986,7,Varjoja paratiisissa,movie,Costume & Make-Up,Makeup Artist,1761858
+Timo Nousiainen,1986,7,Varjoja paratiisissa,movie,Editing,Colorist,2159272
+Haije Alanoja,1986,7,Varjoja paratiisissa,movie,Production,Production Secretary,2159274
+Eila Karkkunen,1986,7,Varjoja paratiisissa,movie,Editing,Negative Cutter,3479190
+Allison Anders,1995,8,Four Rooms,movie,Directing,Director,3110
+Allison Anders,1995,8,Four Rooms,movie,Writing,Writer,3110
+Alexandre Rockwell,1995,8,Four Rooms,movie,Directing,Director,3111
+Alexandre Rockwell,1995,8,Four Rooms,movie,Production,Executive Producer,3111
+Alexandre Rockwell,1995,8,Four Rooms,movie,Writing,Writer,3111
+Robert Rodriguez,1995,8,Four Rooms,movie,Directing,Director,2294
+Robert Rodriguez,1995,8,Four Rooms,movie,Editing,Editor,2294
+Robert Rodriguez,1995,8,Four Rooms,movie,Writing,Writer,2294
+Quentin Tarantino,1995,8,Four Rooms,movie,Directing,Director,138
+Quentin Tarantino,1995,8,Four Rooms,movie,Production,Executive Producer,138
+Quentin Tarantino,1995,8,Four Rooms,movie,Writing,Writer,138
+Combustible Edison,1995,8,Four Rooms,movie,Sound,Original Music Composer,3116
+Gary Frutkoff,1995,8,Four Rooms,movie,Art,Production Design,3117
+Lance Brown,1995,8,Four Rooms,movie,Sound,Sound Designer,3119
+Lawrence Bender,1995,8,Four Rooms,movie,Production,Producer,2545
+Heidi Vogel,1995,8,Four Rooms,movie,Production,Co-Producer,37333
+Paul Hellerman,1995,8,Four Rooms,movie,Production,Production Manager,37334
+Paul Hellerman,1995,8,Four Rooms,movie,Production,Co-Producer,37334
+Scott Lambert,1995,8,Four Rooms,movie,Production,Co-Producer,37335
+Russell Gray,1995,8,Four Rooms,movie,Production,Casting,3118
+Mayne Berke,1995,8,Four Rooms,movie,Art,Art Direction,11423
+Sara Andrews,1995,8,Four Rooms,movie,Art,Set Decoration,9042
+Sally Menke,1995,8,Four Rooms,movie,Editing,Editor,156
+Guillermo Navarro,1995,8,Four Rooms,movie,Camera,Director of Photography,3113
+Mark Mothersbaugh,1995,8,Four Rooms,movie,Sound,Music Producer,5666
+Andrzej Sekula,1995,8,Four Rooms,movie,Camera,Director of Photography,3115
+Karyn Rachtman,1995,8,Four Rooms,movie,Sound,Music Supervisor,6940
+Elena Maganini,1995,8,Four Rooms,movie,Editing,Editor,3121
+Phil Parmet,1995,8,Four Rooms,movie,Camera,Director of Photography,3114
+Randi Hiller,1995,8,Four Rooms,movie,Production,Casting Associate,20540
+Wayne Fitzgerald,1995,8,Four Rooms,movie,Art,Title Designer,81538
+Mary Claire Hannan,1995,8,Four Rooms,movie,Costume & Make-Up,Costume Design,46589
+Jonathan Brown,1995,8,Four Rooms,movie,Camera,Steadicam Operator,56791
+Susan L. Bertram,1995,8,Four Rooms,movie,Costume & Make-Up,Costume Design,62277
+Erik C. Andersen,1995,8,Four Rooms,movie,Editing,First Assistant Editor,64315
+Debbie Hayn-Cass,1995,8,Four Rooms,movie,Production,Unit Production Manager,64744
+Debbie Hayn-Cass,1995,8,Four Rooms,movie,Production,Production Supervisor,64744
+Douglas Aarniokoski,1995,8,Four Rooms,movie,Directing,First Assistant Director,71901
+Rodrigo García,1995,8,Four Rooms,movie,Camera,Director of Photography,77162
+Jay Nierenberg,1995,8,Four Rooms,movie,Sound,Sound Editor,80824
+Chuck Jones,1995,8,Four Rooms,movie,Crew,Creative Consultant,100888
+Ermahn Ospina,1995,8,Four Rooms,movie,Costume & Make-Up,Key Hair Stylist,144146
+Ziad Doueiri,1995,8,Four Rooms,movie,Camera,First Assistant Camera,148455
+Barbara Harris,1995,8,Four Rooms,movie,Production,ADR Voice Casting,230436
+Tiffanie DeBartolo,1995,8,Four Rooms,movie,Crew,Intern,1031288
+Margaret Goodspeed,1995,8,Four Rooms,movie,Editing,Editor,1041072
+Toni G,1995,8,Four Rooms,movie,Costume & Make-Up,Assistant Makeup Artist,1069714
+Fernando Altschul,1995,8,Four Rooms,movie,Directing,First Assistant Director,1120536
+Ray Maxwell,1995,8,Four Rooms,movie,Art,Construction Foreman,1341806
+Jayne-Ann Tenggren,1995,8,Four Rooms,movie,Directing,Script Supervisor,1342669
+Tim Tuchrello,1995,8,Four Rooms,movie,Sound,First Assistant Sound Editor,1357671
+Brian Markey,1995,8,Four Rooms,movie,Art,Construction Coordinator,1395016
+Robert Earl Craft,1995,8,Four Rooms,movie,Production,Location Manager,1401374
+Dawn Todd Curfman,1995,8,Four Rooms,movie,Production,Post Production Coordinator,1402054
+Zack Davis,1995,8,Four Rooms,movie,Sound,ADR Editor,1404841
+Becky Sullivan,1995,8,Four Rooms,movie,Sound,Supervising ADR Editor,1404903
+Pawel Wdowczak,1995,8,Four Rooms,movie,Sound,Production Sound Mixer,1410954
+Glenn Hoskinson,1995,8,Four Rooms,movie,Sound,Sound Effects Editor,1412227
+Thom 'Coach' Ehle,1995,8,Four Rooms,movie,Sound,Dolby Consultant,1412242
+Denise Okimoto,1995,8,Four Rooms,movie,Sound,Music Editor,1415642
+P. Gerald Knight,1995,8,Four Rooms,movie,Crew,Transportation Coordinator,1419160
+Bruce Fortune,1995,8,Four Rooms,movie,Sound,Supervising Sound Editor,1438571
+Kyle Oliver,1995,8,Four Rooms,movie,Production,Location Assistant,1505354
+Jacqueline Aronson,1995,8,Four Rooms,movie,Costume & Make-Up,Costume Supervisor,1547239
+Lynda Reiss,1995,8,Four Rooms,movie,Art,Property Master,1552012
+Victor Iorillo,1995,8,Four Rooms,movie,Crew,Special Sound Effects,1552088
+Marisol Jiménez,1995,8,Four Rooms,movie,Art,Art Department Coordinator,1556697
+Mike Stanwick,1995,8,Four Rooms,movie,Editing,Color Timer,1564233
+Edgar Arellano,1995,8,Four Rooms,movie,Lighting,Best Boy Electric,1601800
+Paul Taglianetti,1995,8,Four Rooms,movie,Crew,Special Effects Coordinator,1602889
+Nancy Willen,1995,8,Four Rooms,movie,Crew,Unit Publicist,1622121
+Mynka Draper,1995,8,Four Rooms,movie,Costume & Make-Up,Costumer,1652417
+Brian Bettwy,1995,8,Four Rooms,movie,Directing,Second Assistant Director,1685556
+Darrell Dubovsky,1995,8,Four Rooms,movie,Crew,Driver,1686379
+Paul Koronkiewicz,1995,8,Four Rooms,movie,Sound,Boom Operator,1695796
+Rick Stribling,1995,8,Four Rooms,movie,Camera,Key Grip,1708344
+Orlando,1995,8,Four Rooms,movie,Costume & Make-Up,Hairstylist,1745153
+Bjørn Eivind Aarskog,1995,8,Four Rooms,movie,Camera,Second Assistant Camera,1841033
+James C. Beeson,1995,8,Four Rooms,movie,Crew,Carpenter,1851724
+Carlos A. Chavez,1995,8,Four Rooms,movie,Art,Painter,1851725
+Marc Gillson,1995,8,Four Rooms,movie,Art,Lead Painter,1877352
+T.D. Donnelly,1995,8,Four Rooms,movie,Art,Standby Painter,1877353
+Elizabeth Bolden,1995,8,Four Rooms,movie,Camera,Grip,1877355
+Thomas G. Marquez,1995,8,Four Rooms,movie,Costume & Make-Up,Costume Supervisor,1877356
+Paul Starr,1995,8,Four Rooms,movie,Costume & Make-Up,Makeup Artist,1877357
+Sissy Boyd,1995,8,Four Rooms,movie,Crew,Choreographer,1877359
+Derek Hurd,1995,8,Four Rooms,movie,Crew,Craft Service,1877360
+Ben Parker,1995,8,Four Rooms,movie,Crew,Post Production Assistant,1877361
+Ben Parker,1995,8,Four Rooms,movie,Crew,Set Production Assistant,1877361
+Nick Roberts,1995,8,Four Rooms,movie,Crew,Security,1877363
+Patrice Carbaugh,1995,8,Four Rooms,movie,Crew,Set Medic,1877365
+Michael Boyce Harris,1995,8,Four Rooms,movie,Crew,Stand In,1877369
+Dotti Thompson,1995,8,Four Rooms,movie,Crew,Transportation Captain,1877370
+Bob Allen,1995,8,Four Rooms,movie,Editing,First Assistant Editor,1877377
+Marcel DeJure,1995,8,Four Rooms,movie,Lighting,Electrician,1877378
+Chuck Smith,1995,8,Four Rooms,movie,Lighting,Gaffer,1877379
+Deborah Hebert,1995,8,Four Rooms,movie,Production,Production Accountant,1877380
+David Gertz,1995,8,Four Rooms,movie,Sound,Foley Mixer,1877413
+Jan D. Tys,1995,8,Four Rooms,movie,Crew,Studio Teachers,1877415
+Joseph W. Grafmuller,1995,8,Four Rooms,movie,Art,Swing,1895858
+Theresa Repola Mohammed,1995,8,Four Rooms,movie,Editing,Negative Cutter,1899435
+Kristen Becht,1995,8,Four Rooms,movie,Sound,Music Coordinator,2022847
+Christina Tucker,1995,8,Four Rooms,movie,Sound,ADR Mixer,2045529
+Martin Charles,1995,8,Four Rooms,movie,Art,Graphic Designer,2080021
+Mary Patvaldnieks,1995,8,Four Rooms,movie,Art,Assistant Decorator,2278012
+Andrew King,1995,8,Four Rooms,movie,Art,Assistant Property Master,2278013
+Vincent Cassaro,1995,8,Four Rooms,movie,Sound,Second Assistant Sound,2278014
+Christy Sumner,1995,8,Four Rooms,movie,Crew,Special Effects Assistant,2278015
+Gregory C. Smith,1995,8,Four Rooms,movie,Camera,Assistant Camera,2278016
+James Irons,1995,8,Four Rooms,movie,Camera,Best Boy Grip,2278017
+Bob Ivanjack,1995,8,Four Rooms,movie,Camera,Dolly Grip,2278018
+Jeff Ervin,1995,8,Four Rooms,movie,Editing,Assistant Editor,2278019
+Heidrun M. Williams,1995,8,Four Rooms,movie,Production,Assistant Accountant,2278020
+Susan Noonan-Gero,1995,8,Four Rooms,movie,Production,Assistant Production Coordinator,2278021
+Stephen Hopkins,1993,9,Judgment Night,movie,Directing,Director,2042
+Lewis Colick,1993,9,Judgment Night,movie,Writing,Screenplay,52035
+Lewis Colick,1993,9,Judgment Night,movie,Writing,Story,52035
+Gene Levy,1993,9,Judgment Night,movie,Production,Producer,71417
+Alan Silvestri,1993,9,Judgment Night,movie,Sound,Original Music Composer,37
+Peter Levy,1993,9,Judgment Night,movie,Camera,Director of Photography,2044
+John M. Dwyer,1993,9,Judgment Night,movie,Art,Set Decoration,796
+Marilyn Vance,1993,9,Judgment Night,movie,Costume & Make-Up,Costume Design,7719
+Marilyn Vance,1993,9,Judgment Night,movie,Production,Executive Producer,7719
+Joseph C. Nemec III,1993,9,Judgment Night,movie,Art,Production Design,9990
+Dan Olexiewicz,1993,9,Judgment Night,movie,Art,Art Direction,14040
+Lloyd Segan,1993,9,Judgment Night,movie,Production,Executive Producer,20784
+Tim Wellburn,1993,9,Judgment Night,movie,Editing,Editor,71194
+Jere Cunningham,1993,9,Judgment Night,movie,Writing,Story,1088307
+Kris Wiseman McIntyre,1993,9,Judgment Night,movie,Production,Associate Producer,1472642
+Christopher Mollo,1993,9,Judgment Night,movie,Production,Associate Producer,1498452
+Michael Glawogger,2006,10,Life in Loops (A Megacities RMX),movie,Writing,Screenplay,801
+Timo Novotny,2006,10,Life in Loops (A Megacities RMX),movie,Writing,Screenplay,34833
+Timo Novotny,2006,10,Life in Loops (A Megacities RMX),movie,Directing,Director,34833
+Timo Novotny,2006,10,Life in Loops (A Megacities RMX),movie,Editing,Editor,34833
+Timo Novotny,2006,10,Life in Loops (A Megacities RMX),movie,Production,Producer,34833
+Wolfgang Thaler,2006,10,Life in Loops (A Megacities RMX),movie,Camera,Director of Photography,803
+Gerald Schober,2006,10,Life in Loops (A Megacities RMX),movie,Editing,Editor,34834
+Armin Herzog,2006,10,Life in Loops (A Megacities RMX),movie,Editing,Editor,34835
+Sofa Surfers,2006,10,Life in Loops (A Megacities RMX),movie,Sound,Music,65382
+Ulrich Gehmacher,2006,10,Life in Loops (A Megacities RMX),movie,Production,Producer,143486
+Marc Meyer,2004,11,Sonntag im August,movie,Directing,Director,867
+Marc Meyer,2004,11,Sonntag im August,movie,Editing,Editor,867
+Marc Meyer,2004,11,Sonntag im August,movie,Production,Producer,867
+Marc Meyer,2004,11,Sonntag im August,movie,Writing,Author,867
+Peter Polsak-Lohmann,2004,11,Sonntag im August,movie,Camera,Director of Photography,875
+Moritz Hoffmeister,2004,11,Sonntag im August,movie,Sound,Sound Designer,891
+Anna Haas,2004,11,Sonntag im August,movie,Directing,Director,914
+Jesko Klatt,2004,11,Sonntag im August,movie,Camera,Underwater Camera,917
+Jan Raiber,2004,11,Sonntag im August,movie,Visual Effects,Animation,919
+Christian Biegai,2004,11,Sonntag im August,movie,Sound,Original Music Composer,15360
+George Lucas,1977,12,Star Wars,movie,Directing,Director,1
+George Lucas,1977,12,Star Wars,movie,Production,Executive Producer,1
+George Lucas,1977,12,Star Wars,movie,Writing,Writer,1
+Gary Kurtz,1977,12,Star Wars,movie,Production,Producer,12401
+Rick McCallum,1977,12,Star Wars,movie,Production,Producer,19801
+John Williams,1977,12,Star Wars,movie,Sound,Original Music Composer,491
+Gilbert Taylor,1977,12,Star Wars,movie,Camera,Director of Photography,7753
+Vic Ramos,1977,12,Star Wars,movie,Production,Casting,3176
+Irene Lamb,1977,12,Star Wars,movie,Production,Casting,390
+Norman Reynolds,1977,12,Star Wars,movie,Art,Art Direction,669
+Ben Burtt,1977,12,Star Wars,movie,Sound,Sound Designer,670
+Willard Huyck,1977,12,Star Wars,movie,Crew,Script,686
+Gloria Katz,1977,12,Star Wars,movie,Crew,Script,687
+Robert Watts,1977,12,Star Wars,movie,Production,Production Supervisor,711
+Gordon Davidson,1977,12,Star Wars,movie,Sound,Sound Editor,1053
+Marcia Lucas,1977,12,Star Wars,movie,Editing,Editor,2551
+Dianne Crittenden,1977,12,Star Wars,movie,Production,Casting,1221
+Richard Portman,1977,12,Star Wars,movie,Sound,Sound Re-Recording Mixer,3105
+David V. Lester,1977,12,Star Wars,movie,Production,Production Manager,4054
+Roger Christian,1977,12,Star Wars,movie,Art,Set Decoration,5058
+Leslie Dilley,1977,12,Star Wars,movie,Art,Art Direction,5059
+John Mollo,1977,12,Star Wars,movie,Costume & Make-Up,Costume Design,5061
+Phil Tippett,1977,12,Star Wars,movie,Visual Effects,Animation,7727
+Richard Chew,1977,12,Star Wars,movie,Editing,Editor,8425
+Anthony Waye,1977,12,Star Wars,movie,Directing,Assistant Director,10706
+Stuart Freeborn,1977,12,Star Wars,movie,Costume & Make-Up,Makeup Supervisor,11837
+Bruce Green,1977,12,Star Wars,movie,Editing,Assistant Editor,12970
+Rick Baker,1977,12,Star Wars,movie,Costume & Make-Up,Makeup Artist,16178
+Paul Hirsch,1977,12,Star Wars,movie,Editing,Editor,10766
+Bruce Sharman,1977,12,Star Wars,movie,Production,Production Manager,66251
+Joseph Lenzi,1977,12,Star Wars,movie,Production,Production Manager,66611
+Don MacDougall,1977,12,Star Wars,movie,Sound,Sound Re-Recording Mixer,74778
+Gary Rizzo,1977,12,Star Wars,movie,Sound,Sound Mix Technician,138618
+John Barry,1977,12,Star Wars,movie,Art,Production Design,568911
+Gene Corso,1977,12,Star Wars,movie,Sound,Sound Editor,1070097
+Ann Skinner,1977,12,Star Wars,movie,Directing,Continuity,1250477
+Les Fresholtz,1977,12,Star Wars,movie,Sound,Sound Re-Recording Mixer,1399140
+Michael Minkler,1977,12,Star Wars,movie,Sound,Sound Re-Recording Mixer,1399141
+Robert J. Litt,1977,12,Star Wars,movie,Sound,Sound Re-Recording Mixer,1399996
+Paul Huston,1977,12,Star Wars,movie,Visual Effects,Visual Effects,1424133
+Peter V. Herald,1977,12,Star Wars,movie,Production,Production Manager,1430398
+Bob Minkler,1977,12,Star Wars,movie,Sound,Sound Re-Recording Mixer,1446531
+Ray West,1977,12,Star Wars,movie,Sound,Sound Re-Recording Mixer,1446533
+Derek Ball,1977,12,Star Wars,movie,Sound,Production Sound Mixer,1513636
+Ken Nightingall,1977,12,Star Wars,movie,Sound,Boom Operator,1513637
+Robert R. Rutledge,1977,12,Star Wars,movie,Sound,Sound Editor,1544697
+Jack Dearlove,1977,12,Star Wars,movie,Crew,Stand In,1563188
+Dan Perri,1977,12,Star Wars,movie,Art,Title Designer,1648134
+Roy Seely,1977,12,Star Wars,movie,Crew,Stand In,1678560
+Terry Madden,1977,12,Star Wars,movie,Directing,Assistant Director,1697237
+Gerry Gavigan,1977,12,Star Wars,movie,Directing,Assistant Director,1877790
+Peter Brace,1977,12,Star Wars,movie,Crew,Stunt Double,1951618
+Ron Beck,1977,12,Star Wars,movie,Costume & Make-Up,Wardrobe Supervisor,2021308
+Sam F. Shaw,1977,12,Star Wars,movie,Sound,Supervising Sound Editor,2036880
+Michael Galloway,1977,12,Star Wars,movie,Sound,Sound Recordist,2048546
+Gary White,1977,12,Star Wars,movie,Directing,First Assistant Director,2583875
+Wendy Leech,1977,12,Star Wars,movie,Crew,Stunt Double,2789781
+London Symphony Orchestra,1977,12,Star Wars,movie,Sound,Musician,2922346
+David Stone,1977,12,Star Wars,movie,Crew,Stand In,3535183
+Mags Kavanaugh,1977,12,Star Wars,movie,Crew,Stunt Double,3583976
+Penny McCarthy,1977,12,Star Wars,movie,Crew,Stand In,3583982
+Len Mathewman,1977,12,Star Wars,movie,Crew,Stand In,3583983
+Andrew Stanton,2003,13,Finding Nemo,movie,Writing,Screenplay,7
+Andrew Stanton,2003,13,Finding Nemo,movie,Directing,Director,7
+Andrew Stanton,2003,13,Finding Nemo,movie,Writing,Original Story,7
+Lee Unkrich,2003,13,Finding Nemo,movie,Editing,Supervising Film Editor,8
+Lee Unkrich,2003,13,Finding Nemo,movie,Directing,Co-Director,8
+Graham Walters,2003,13,Finding Nemo,movie,Production,Producer,9
+Bob Peterson,2003,13,Finding Nemo,movie,Writing,Screenplay,10
+David Reynolds,2003,13,Finding Nemo,movie,Writing,Screenplay,11
+John Lasseter,2003,13,Finding Nemo,movie,Production,Executive Producer,7879
+David Ian Salter,2003,13,Finding Nemo,movie,Editing,Editor,12914
+Thomas Newman,2003,13,Finding Nemo,movie,Sound,Original Music Composer,153
+Gary Rydstrom,2003,13,Finding Nemo,movie,Sound,Sound Designer,2216
+Gary Rydstrom,2003,13,Finding Nemo,movie,Sound,Supervising Sound Editor,2216
+Gary Rydstrom,2003,13,Finding Nemo,movie,Sound,Sound Re-Recording Mixer,2216
+Bill Bernstein,2003,13,Finding Nemo,movie,Sound,Music Editor,7538
+Ralph Eggleston,2003,13,Finding Nemo,movie,Art,Production Design,7883
+Dominique Louis,2003,13,Finding Nemo,movie,Visual Effects,Visual Development,7891
+Glenn McQueen,2003,13,Finding Nemo,movie,Crew,In Memory Of,7892
+Rich Quade,2003,13,Finding Nemo,movie,Visual Effects,Animation,7893
+Mary Hidalgo,2003,13,Finding Nemo,movie,Production,Casting,7903
+Marcia Gwendolyn Jones,2003,13,Finding Nemo,movie,Production,Production Supervisor,7912
+Geefwee Boedoe,2003,13,Finding Nemo,movie,Visual Effects,Visual Development,7925
+Ricky Nierva,2003,13,Finding Nemo,movie,Art,Art Direction,7927
+Angus MacLane,2003,13,Finding Nemo,movie,Visual Effects,Animation,7929
+Glenn Kim,2003,13,Finding Nemo,movie,Visual Effects,CG Painter,7943
+Laura Phillips,2003,13,Finding Nemo,movie,Visual Effects,CG Painter,7944
+Jamie Frye,2003,13,Finding Nemo,movie,Visual Effects,CG Painter,7946
+Yvonne Herbst,2003,13,Finding Nemo,movie,Visual Effects,CG Painter,7948
+Robin Cooper,2003,13,Finding Nemo,movie,Art,Art Direction,7949
+Randy Berrett,2003,13,Finding Nemo,movie,Art,Art Direction,7952
+Albert Lozano,2003,13,Finding Nemo,movie,Crew,Production Artist,7955
+Nathaniel McLaughlin,2003,13,Finding Nemo,movie,Crew,Production Artist,7956
+Bud Thon,2003,13,Finding Nemo,movie,Crew,Production Artist,7957
+Jerome Ranft,2003,13,Finding Nemo,movie,Art,Sculptor,7960
+Carter Goodrich,2003,13,Finding Nemo,movie,Visual Effects,Visual Development,7963
+Peter DeSève,2003,13,Finding Nemo,movie,Visual Effects,Visual Development,7967
+Andrea Warren,2003,13,Finding Nemo,movie,Visual Effects,CG Painter,7972
+Louis Gonzales,2003,13,Finding Nemo,movie,Visual Effects,CG Artist,7982
+Jeremy Lasky,2003,13,Finding Nemo,movie,Camera,Director of Photography,7988
+Billy Merritt,2003,13,Finding Nemo,movie,Visual Effects,Animation,7995
+Brett Pulliam,2003,13,Finding Nemo,movie,Visual Effects,Animation,7996
+Bret 'Brook' Parker,2003,13,Finding Nemo,movie,Visual Effects,Animation,7998
+Gini Cruz Santos,2003,13,Finding Nemo,movie,Visual Effects,Animation,7999
+Ellen Moon Lee,2003,13,Finding Nemo,movie,Crew,Production Artist,8003
+David Eisenmann,2003,13,Finding Nemo,movie,Crew,CG Supervisor,8007
+Doug Sweetland,2003,13,Finding Nemo,movie,Visual Effects,Animation,8010
+Scott Clark,2003,13,Finding Nemo,movie,Visual Effects,Animation,8011
+Alan Barillaro,2003,13,Finding Nemo,movie,Visual Effects,Animation Director,8012
+Andrew Gordon,2003,13,Finding Nemo,movie,Visual Effects,Animation,8013
+Shawn Krause,2003,13,Finding Nemo,movie,Visual Effects,Animation,8015
+David DeVan,2003,13,Finding Nemo,movie,Visual Effects,Animation,8018
+Stephen Gregory,2003,13,Finding Nemo,movie,Visual Effects,Animation,8019
+Bobby Podesta,2003,13,Finding Nemo,movie,Visual Effects,Animation,8021
+Michael Berenstein,2003,13,Finding Nemo,movie,Visual Effects,Animation,8025
+Brett Coderre,2003,13,Finding Nemo,movie,Visual Effects,Animation,8026
+Doug Dooley,2003,13,Finding Nemo,movie,Visual Effects,Animation,8028
+Jimmy Hayward,2003,13,Finding Nemo,movie,Visual Effects,Animation,8029
+Nancy Kato,2003,13,Finding Nemo,movie,Visual Effects,Animation,8030
+Bobby Beck,2003,13,Finding Nemo,movie,Visual Effects,Animation,8031
+Tim Crawfurd,2003,13,Finding Nemo,movie,Visual Effects,Animation,8033
+Ike Feldman,2003,13,Finding Nemo,movie,Visual Effects,Animation,8034
+Karen Kiser,2003,13,Finding Nemo,movie,Visual Effects,Animation,8035
+Wendell Lee,2003,13,Finding Nemo,movie,Visual Effects,Animation,8036
+Daniel Mason,2003,13,Finding Nemo,movie,Visual Effects,Animation,8037
+Amy McNamara,2003,13,Finding Nemo,movie,Visual Effects,Animation,8038
+James Ford Murphy,2003,13,Finding Nemo,movie,Visual Effects,Animation,8039
+Victor Navone,2003,13,Finding Nemo,movie,Visual Effects,Animation,8040
+Andrew L. Schmidt,2003,13,Finding Nemo,movie,Visual Effects,Animation,8042
+Patty Kihm Stevenson,2003,13,Finding Nemo,movie,Visual Effects,Animation,8043
+David Tart,2003,13,Finding Nemo,movie,Visual Effects,Animation,8044
+Jon Mead,2003,13,Finding Nemo,movie,Visual Effects,Animation,8045
+Dave Mullins,2003,13,Finding Nemo,movie,Visual Effects,Animation,8046
+Peter Nash,2003,13,Finding Nemo,movie,Visual Effects,Animation,8047
+Ross Stevenson,2003,13,Finding Nemo,movie,Visual Effects,Animation,8051
+J. Warren Trezevant,2003,13,Finding Nemo,movie,Visual Effects,Animation,8052
+Michael Venturini,2003,13,Finding Nemo,movie,Visual Effects,Animation,8053
+Adam Wood,2003,13,Finding Nemo,movie,Visual Effects,Animation,8054
+Adam Wood,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,8054
+Tasha Wedeen,2003,13,Finding Nemo,movie,Visual Effects,Animation,8055
+Kureha Yokoo,2003,13,Finding Nemo,movie,Visual Effects,Animation,8056
+Ron Zorman,2003,13,Finding Nemo,movie,Visual Effects,Animation,8057
+Paul Mendoza,2003,13,Finding Nemo,movie,Visual Effects,Fix Animator,8058
+Jenni Tsoi,2003,13,Finding Nemo,movie,Visual Effects,Animation Manager,8059
+Gabrielle Siegel,2003,13,Finding Nemo,movie,Editing,Editorial Production Assistant,8062
+Katherine Ringgold,2003,13,Finding Nemo,movie,Crew,Second Film Editor,8066
+Axel Geddes,2003,13,Finding Nemo,movie,Editing,First Assistant Editor,8071
+Chris Vallance,2003,13,Finding Nemo,movie,Crew,Thanks,8073
+E.J. Holowicki,2003,13,Finding Nemo,movie,Sound,Sound Effects Editor,8078
+Brian Green,2003,13,Finding Nemo,movie,Crew,CG Supervisor,8084
+Ethan Owen,2003,13,Finding Nemo,movie,Production,Unit Manager,8094
+Anthony A. Apodaca,2003,13,Finding Nemo,movie,Crew,CG Supervisor,8098
+Steve May,2003,13,Finding Nemo,movie,Crew,CG Supervisor,8115
+Louis Rivera,2003,13,Finding Nemo,movie,Camera,Camera Supervisor,8135
+David DiFrancesco,2003,13,Finding Nemo,movie,Crew,Photoscience Manager,8139
+Susan T. Tatsuno,2003,13,Finding Nemo,movie,Crew,Supervisor of Production Resources,8144
+Erik Forman,2003,13,Finding Nemo,movie,Crew,Information Systems Manager,8150
+Paul Cichocki,2003,13,Finding Nemo,movie,Crew,Post Production Supervisor,8153
+John Hazelton,2003,13,Finding Nemo,movie,Crew,Projection,8155
+Michael Silvers,2003,13,Finding Nemo,movie,Sound,Supervising Sound Editor,8158
+Shannon Mills,2003,13,Finding Nemo,movie,Sound,Sound Effects Editor,8159
+Dennie Thorpe,2003,13,Finding Nemo,movie,Sound,Foley Artist,8160
+Jana Vance,2003,13,Finding Nemo,movie,Sound,Foley,8163
+Dee Selby,2003,13,Finding Nemo,movie,Crew,Sound Design Assistant,8165
+Juan Peralta,2003,13,Finding Nemo,movie,Sound,Sound Mix Technician,8166
+Sharon Calahan,2003,13,Finding Nemo,movie,Camera,Director of Photography,12912
+Teresa Eckton,2003,13,Finding Nemo,movie,Sound,Sound Effects Editor,15893
+Jessica Giampietro McMackin,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,15896
+Jim Capobianco,2003,13,Finding Nemo,movie,Writing,Story Artist,32535
+David Lucarelli,2003,13,Finding Nemo,movie,Sound,ADR Recordist,113067
+Stan Webb,2003,13,Finding Nemo,movie,Crew,Second Film Editor,56270
+Kevin Reher,2003,13,Finding Nemo,movie,Production,Casting,57673
+Matthew Jon Beck,2003,13,Finding Nemo,movie,Production,Casting,61419
+Lindsey Collins,2003,13,Finding Nemo,movie,Production,Production Manager,72753
+Jinko Gotoh,2003,13,Finding Nemo,movie,Production,Associate Producer,76590
+Roger Gould,2003,13,Finding Nemo,movie,Crew,Thanks,74142
+Rodrigo Blaas,2003,13,Finding Nemo,movie,Visual Effects,Animation,107704
+Dylan Brown,2003,13,Finding Nemo,movie,Crew,Supervising Animator,231202
+Jason Topolski,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,567732
+Steve Bloom,2003,13,Finding Nemo,movie,Crew,Thanks,652557
+Jason Katz,2003,13,Finding Nemo,movie,Directing,Script Supervisor,958055
+Bruce White,2003,13,Finding Nemo,movie,Sound,Musician,1018001
+Mark A. Walsh,2003,13,Finding Nemo,movie,Visual Effects,Animation Director,1092247
+Kiel Murray,2003,13,Finding Nemo,movie,Crew,Thanks,1117779
+Osnat Shurer,2003,13,Finding Nemo,movie,Crew,Thanks,1117781
+David Slusser,2003,13,Finding Nemo,movie,Crew,Temp Music Editor,1122225
+Michael Parks,2003,13,Finding Nemo,movie,Visual Effects,Animation,1140576
+Greg Dykstra,2003,13,Finding Nemo,movie,Art,Sculptor,1211220
+Ronnie del Carmen,2003,13,Finding Nemo,movie,Art,Storyboard Artist,1236458
+Ronnie del Carmen,2003,13,Finding Nemo,movie,Writing,Story Supervisor,1236458
+Tony Fucile,2003,13,Finding Nemo,movie,Visual Effects,Visual Development,1260745
+Tom MacDougall,2003,13,Finding Nemo,movie,Sound,Music Supervisor,1291315
+Anthony Christov,2003,13,Finding Nemo,movie,Art,Art Direction,1303001
+George Hull,2003,13,Finding Nemo,movie,Visual Effects,Visual Development,1335873
+Kimberly Adair Clark,2003,13,Finding Nemo,movie,Crew,Thanks,1338319
+Margaret Lily Andres,2003,13,Finding Nemo,movie,Editing,Assistant Editor,1349896
+Simon Rhodes,2003,13,Finding Nemo,movie,Sound,Scoring Mixer,1393351
+Graham Moloy,2003,13,Finding Nemo,movie,Visual Effects,Animation Department Coordinator,1397887
+Steven Clay Hunter,2003,13,Finding Nemo,movie,Visual Effects,Animation,1406885
+Al Nelson,2003,13,Finding Nemo,movie,Sound,Foley Editor,1422411
+Gary Summers,2003,13,Finding Nemo,movie,Sound,Sound Re-Recording Mixer,1425978
+Derek Casari,2003,13,Finding Nemo,movie,Sound,ADR Engineer,1432596
+A.J. Riebli III,2003,13,Finding Nemo,movie,Production,Unit Manager,1443479
+M.T. Silvia,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,1449388
+Bruce Zick,2003,13,Finding Nemo,movie,Visual Effects,Visual Development,1451236
+Doug Nichols,2003,13,Finding Nemo,movie,Art,Art Department Manager,1460426
+Nelson 'Rey' Bohol,2003,13,Finding Nemo,movie,Crew,Production Artist,1463239
+Elizabeth Greenberg,2003,13,Finding Nemo,movie,Crew,Thanks,1484864
+Kevin Nolting,2003,13,Finding Nemo,movie,Crew,Second Film Editor,1516156
+Bert Berry,2003,13,Finding Nemo,movie,Visual Effects,CG Painter,1516157
+Jonathan Flack,2003,13,Finding Nemo,movie,Crew,Thanks,1538710
+Frank Marocco,2003,13,Finding Nemo,movie,Sound,Musician,1544774
+Thomas Pasatieri,2003,13,Finding Nemo,movie,Sound,Orchestrator,1549209
+Terry Claborn,2003,13,Finding Nemo,movie,Editing,Color Timer,1552873
+Phred Lender,2003,13,Finding Nemo,movie,Editing,Editorial Services,1555008
+Cosmic Don,2003,13,Finding Nemo,movie,Camera,Camera Technician,1556611
+Luis Alarcon-Cisneros,2003,13,Finding Nemo,movie,Crew,Craft Service,1556614
+Luis Alarcon-Cisneros,2003,13,Finding Nemo,movie,Crew,Thanks,1556614
+Jon Darrell Handy,2003,13,Finding Nemo,movie,Crew,Production Office Assistant,1556615
+Chris Balog,2003,13,Finding Nemo,movie,Crew,Security,1556622
+Chris Balog,2003,13,Finding Nemo,movie,Crew,Thanks,1556622
+Domenic Allen,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,1556628
+Gregory Amundson,2003,13,Finding Nemo,movie,Editing,Editorial Production Assistant,1556629
+Nephi Sanchez,2003,13,Finding Nemo,movie,Production,Production Accountant,1556631
+Steve Slanec,2003,13,Finding Nemo,movie,Sound,ADR Editor,1556632
+Kent Brown,2003,13,Finding Nemo,movie,Sound,Sound Editor,1556634
+James Burgess,2003,13,Finding Nemo,movie,Crew,Photoscience Manager,1556635
+Noelle P. Case,2003,13,Finding Nemo,movie,Editing,Editorial Coordinator,1556647
+Jurgen Scharpf,2003,13,Finding Nemo,movie,Sound,Sound Mix Technician,1595470
+Travis Crenshaw,2003,13,Finding Nemo,movie,Sound,Foley Recordist,1608893
+Colin Bohrer,2003,13,Finding Nemo,movie,Crew,Thanks,1609033
+Dan Lee,2003,13,Finding Nemo,movie,Visual Effects,Character Designer,1623548
+Nils Erdmann,2003,13,Finding Nemo,movie,Production,Finance,1623553
+Nils Erdmann,2003,13,Finding Nemo,movie,Crew,Thanks,1623553
+Frank 'Pepe' Merel,2003,13,Finding Nemo,movie,Sound,Foley Mixer,1640918
+Jesse Hollander,2003,13,Finding Nemo,movie,Crew,CG Supervisor,1711831
+Chris DiGiovanni,2003,13,Finding Nemo,movie,Visual Effects,Fix Animator,1719095
+Joshua Hollander,2003,13,Finding Nemo,movie,Production,Unit Manager,1719096
+Mark Berrow,2003,13,Finding Nemo,movie,Sound,Musician,1733019
+Mary Beth Smith,2003,13,Finding Nemo,movie,Editing,Negative Cutter,1739962
+Jeff Wan,2003,13,Finding Nemo,movie,Camera,Camera Technician,1742751
+Doug Sheppeck,2003,13,Finding Nemo,movie,Visual Effects,Animation,1748691
+Oren Jacob,2003,13,Finding Nemo,movie,Crew,Supervising Technical Director,1748698
+Desirée Mourad,2003,13,Finding Nemo,movie,Crew,Public Relations,1748709
+Desirée Mourad,2003,13,Finding Nemo,movie,Crew,Thanks,1748709
+Mark Whiting,2003,13,Finding Nemo,movie,Visual Effects,Visual Development,1759722
+Alex Orrelle,2003,13,Finding Nemo,movie,Crew,Thanks,1788770
+Lisa Forssel,2003,13,Finding Nemo,movie,Crew,CG Supervisor,1830788
+Danielle Feinberg,2003,13,Finding Nemo,movie,Crew,CG Supervisor,1830790
+Michael Fong,2003,13,Finding Nemo,movie,Crew,CG Supervisor,1830791
+Michael Lorenzen,2003,13,Finding Nemo,movie,Crew,CG Supervisor,1830793
+D.J. Cleland-Hura,2003,13,Finding Nemo,movie,Visual Effects,Visual Development,1830810
+Simon Varela,2003,13,Finding Nemo,movie,Visual Effects,Visual Development,1830811
+Jacob Parsons,2003,13,Finding Nemo,movie,Editing,Editorial Production Assistant,1830812
+Peter T. Schreiber,2003,13,Finding Nemo,movie,Crew,Production Office Assistant,1830814
+Miguel Ángel Poveda,2003,13,Finding Nemo,movie,Crew,Post Production Supervisor,1847643
+James S. Baker,2003,13,Finding Nemo,movie,Art,Additional Storyboarding,1992727
+Rachel Bolt,2003,13,Finding Nemo,movie,Sound,Musician,1993184
+Carlos Baena,2003,13,Finding Nemo,movie,Visual Effects,Animation,1993326
+Travis Hathaway,2003,13,Finding Nemo,movie,Visual Effects,Animation,1993395
+Rob Jensen,2003,13,Finding Nemo,movie,Visual Effects,Animation,1993421
+Matt Majers,2003,13,Finding Nemo,movie,Visual Effects,Animation,1993494
+Cameron Miyasaki,2003,13,Finding Nemo,movie,Visual Effects,Animation,1993499
+Chuck Waite,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,1993657
+Adam Woodbury,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,1994385
+Heather Feng,2003,13,Finding Nemo,movie,Production,Administration,1994396
+Heather Feng,2003,13,Finding Nemo,movie,Crew,Thanks,1994396
+Timothy Glass,2003,13,Finding Nemo,movie,Production,Finance,1994401
+Timothy Glass,2003,13,Finding Nemo,movie,Crew,Thanks,1994401
+Heather D.C. Jackson,2003,13,Finding Nemo,movie,Production,Finance,1994408
+Heather D.C. Jackson,2003,13,Finding Nemo,movie,Crew,Thanks,1994408
+Cory Knox,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,1994410
+Matthew Lindahl,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,1994416
+Terry Lee Moseley,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,1994421
+Kristina Ruud,2003,13,Finding Nemo,movie,Production,Finance,1994442
+Kristina Ruud,2003,13,Finding Nemo,movie,Crew,Thanks,1994442
+Wendy Dale Tanzillo,2003,13,Finding Nemo,movie,Production,Administration,1994448
+Wendy Dale Tanzillo,2003,13,Finding Nemo,movie,Crew,Thanks,1994448
+Deana Walker,2003,13,Finding Nemo,movie,Production,Finance,1994450
+Deana Walker,2003,13,Finding Nemo,movie,Crew,Thanks,1994450
+Annette Wang,2003,13,Finding Nemo,movie,Production,Finance,1994452
+Annette Wang,2003,13,Finding Nemo,movie,Crew,Thanks,1994452
+Ian Westcott,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,1994456
+Lars R. Damerow,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,1994534
+Jennifer Becker,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,1994645
+Gabriel Benveniste,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,1994646
+Will Csaklos,2003,13,Finding Nemo,movie,Writing,Story Consultant,1994647
+Edward Escueta,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,1994648
+Lisa Forssell,2003,13,Finding Nemo,movie,Crew,CG Supervisor,1994649
+Grant Gatzke,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,1994650
+Bethany Jane Hanson,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,1994651
+Ling Hsu,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,1994653
+Jason 'Jayfish' Hull,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,1994654
+Nelson Siu,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,1994679
+Elle Yoko Suzuki,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,1994682
+Andy Thomas,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,1994684
+Christopher C. Walker,2003,13,Finding Nemo,movie,Crew,Information Systems Manager,1994689
+Jay Weiland,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,1994690
+Andrew Findon,2003,13,Finding Nemo,movie,Sound,Musician,1995611
+Anna Noakes,2003,13,Finding Nemo,movie,Sound,Musician,1995613
+Lisa Ellis,2003,13,Finding Nemo,movie,Crew,Thanks,1996151
+David R. Haumann,2003,13,Finding Nemo,movie,Crew,Thanks,1996245
+Cherise Miller,2003,13,Finding Nemo,movie,Crew,Thanks,1996845
+Karen Perry,2003,13,Finding Nemo,movie,Production,Finance,1997789
+Karen Perry,2003,13,Finding Nemo,movie,Crew,Thanks,1997789
+Sue Williams,2003,13,Finding Nemo,movie,Production,Finance,1997790
+Sue Williams,2003,13,Finding Nemo,movie,Crew,Thanks,1997790
+Marlon Castro,2003,13,Finding Nemo,movie,Crew,Security,1997839
+Marlon Castro,2003,13,Finding Nemo,movie,Crew,Thanks,1997839
+Joni Superticioso,2003,13,Finding Nemo,movie,Crew,Security,1997850
+Joni Superticioso,2003,13,Finding Nemo,movie,Crew,Thanks,1997850
+Alisa Gilden,2003,13,Finding Nemo,movie,Crew,Information Systems Manager,1997868
+May Pon,2003,13,Finding Nemo,movie,Crew,Information Systems Manager,1997869
+BoB 'Naked BoB' Morgan,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,1997878
+Jose Ignacio,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,1997880
+James G. Dashe,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,1997888
+Edgar Quinones,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,1997893
+Bryan Bird,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,1997896
+Mark Pananganan,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,1997906
+Peter Kaldis,2003,13,Finding Nemo,movie,Crew,Information Systems Manager,1997908
+Elyse Klaidman,2003,13,Finding Nemo,movie,Crew,Thanks,1998189
+Michael O'Brien,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,1999000
+Andra Smith,2003,13,Finding Nemo,movie,Editing,Editorial Services,2000193
+Jeff Whittle,2003,13,Finding Nemo,movie,Editing,Editorial Services,2000194
+Meagan Miller,2003,13,Finding Nemo,movie,Crew,Craft Service,2000477
+Meagan Miller,2003,13,Finding Nemo,movie,Crew,Thanks,2000477
+Mary Conlin,2003,13,Finding Nemo,movie,Crew,Public Relations,2000487
+Mary Conlin,2003,13,Finding Nemo,movie,Crew,Thanks,2000487
+Ross Dickinson,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,2000494
+Will Phan,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,2000498
+Auburn C. 'Aubie' Schmidt,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,2000499
+Jonathan Williams,2003,13,Finding Nemo,movie,Sound,Musician,2001870
+Paul Kegg,2003,13,Finding Nemo,movie,Sound,Musician,2002536
+Dennis 'D.J.' Jennings,2003,13,Finding Nemo,movie,Crew,Thanks,2002707
+Bill Polson,2003,13,Finding Nemo,movie,Crew,Thanks,2002711
+Steven Argula,2003,13,Finding Nemo,movie,Crew,Public Relations,2002773
+Steven Argula,2003,13,Finding Nemo,movie,Crew,Thanks,2002773
+Jason B. Hendrix,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,2003502
+Alex Stahl,2003,13,Finding Nemo,movie,Crew,Information Systems Manager,2003541
+Warren Hays,2003,13,Finding Nemo,movie,Crew,Information Systems Manager,2003682
+Tom Carlisle,2003,13,Finding Nemo,movie,Crew,Thanks,2004865
+Kenny Condit,2003,13,Finding Nemo,movie,Crew,Thanks,2004866
+Craig Payne,2003,13,Finding Nemo,movie,Crew,Thanks,2004875
+Clay Welch,2003,13,Finding Nemo,movie,Crew,Public Relations,2004877
+Clay Welch,2003,13,Finding Nemo,movie,Crew,Thanks,2004877
+Dale McBeath,2003,13,Finding Nemo,movie,Visual Effects,Animation,2004918
+Adam Bronstein,2003,13,Finding Nemo,movie,Directing,Script Coordinator,2004922
+Adam Bronstein,2003,13,Finding Nemo,movie,Writing,Story Coordinator,2004922
+Roger Rose,2003,13,Finding Nemo,movie,Visual Effects,Animation,2004942
+Kim Collins,2003,13,Finding Nemo,movie,Production,Unit Manager,2004993
+Randy Nelson,2003,13,Finding Nemo,movie,Crew,Thanks,2005102
+Keith Johnson,2003,13,Finding Nemo,movie,Crew,Thanks,2006821
+Leeann Alameda,2003,13,Finding Nemo,movie,Crew,Public Relations,2008758
+Leeann Alameda,2003,13,Finding Nemo,movie,Crew,Thanks,2008758
+Omid Amjadi,2003,13,Finding Nemo,movie,Crew,Thanks,2008759
+Anne Barson,2003,13,Finding Nemo,movie,Crew,Public Relations,2008760
+Anne Barson,2003,13,Finding Nemo,movie,Crew,Thanks,2008760
+Hal Beral,2003,13,Finding Nemo,movie,Crew,Thanks,2008761
+Shannon Brown,2003,13,Finding Nemo,movie,Crew,Public Relations,2008763
+Shannon Brown,2003,13,Finding Nemo,movie,Crew,Thanks,2008763
+Aaron Burt,2003,13,Finding Nemo,movie,Crew,Thanks,2008764
+Benjamin Butcher,2003,13,Finding Nemo,movie,Crew,Public Relations,2008765
+Benjamin Butcher,2003,13,Finding Nemo,movie,Crew,Thanks,2008765
+Jeanmarie M. Carrasco,2003,13,Finding Nemo,movie,Crew,Public Relations,2008766
+Jeanmarie M. Carrasco,2003,13,Finding Nemo,movie,Crew,Thanks,2008766
+Erin Cass,2003,13,Finding Nemo,movie,Crew,Thanks,2008767
+Shelby Madeleine Cass,2003,13,Finding Nemo,movie,Crew,Thanks,2008768
+Maria Elena Magana Cervantes,2003,13,Finding Nemo,movie,Crew,Thanks,2008769
+Kathleen Chanover,2003,13,Finding Nemo,movie,Crew,Public Relations,2008770
+Kathleen Chanover,2003,13,Finding Nemo,movie,Crew,Thanks,2008770
+Mary Coleman,2003,13,Finding Nemo,movie,Crew,Thanks,2008772
+Fernando Contreras,2003,13,Finding Nemo,movie,Crew,Craft Service,2008778
+Fernando Contreras,2003,13,Finding Nemo,movie,Crew,Thanks,2008778
+Ena Chan Cratsenburg,2003,13,Finding Nemo,movie,Production,Administration,2008779
+Ena Chan Cratsenburg,2003,13,Finding Nemo,movie,Crew,Thanks,2008779
+Ray Davis,2003,13,Finding Nemo,movie,Crew,Thanks,2008780
+William de Ridder,2003,13,Finding Nemo,movie,Crew,Thanks,2008781
+Roni Douglas,2003,13,Finding Nemo,movie,Crew,Thanks,2008782
+Marty Eshoff,2003,13,Finding Nemo,movie,Production,Administration,2009031
+Marty Eshoff,2003,13,Finding Nemo,movie,Crew,Thanks,2009031
+Loretta Framsted,2003,13,Finding Nemo,movie,Crew,Craft Service,2009032
+Loretta Framsted,2003,13,Finding Nemo,movie,Crew,Thanks,2009032
+Mark Frazitto,2003,13,Finding Nemo,movie,Production,Administration,2009033
+Mark Frazitto,2003,13,Finding Nemo,movie,Crew,Thanks,2009033
+Christine W. Freeman,2003,13,Finding Nemo,movie,Crew,Thanks,2009034
+Joe Garcia,2003,13,Finding Nemo,movie,Crew,Thanks,2009035
+Jody Giacomini,2003,13,Finding Nemo,movie,Crew,Thanks,2009036
+Lola Gill,2003,13,Finding Nemo,movie,Crew,Thanks,2009037
+Craig Gillespie,2003,13,Finding Nemo,movie,Crew,Thanks,2009040
+Paul Gillis,2003,13,Finding Nemo,movie,Crew,Thanks,2009041
+Daniel A. Goodman,2003,13,Finding Nemo,movie,Crew,Thanks,2009042
+Gale Gortney,2003,13,Finding Nemo,movie,Crew,Thanks,2009043
+Dawn Haagstad,2003,13,Finding Nemo,movie,Crew,Thanks,2009044
+Karen Hartquist,2003,13,Finding Nemo,movie,Crew,Public Relations,2009045
+Karen Hartquist,2003,13,Finding Nemo,movie,Crew,Thanks,2009045
+Stacey Hendrickson,2003,13,Finding Nemo,movie,Crew,Thanks,2009046
+Anne Ho,2003,13,Finding Nemo,movie,Production,Administration,2009047
+Anne Ho,2003,13,Finding Nemo,movie,Crew,Thanks,2009047
+Michael Jones,2003,13,Finding Nemo,movie,Crew,Security,2009048
+Michael Jones,2003,13,Finding Nemo,movie,Crew,Thanks,2009048
+Paul Kim,2003,13,Finding Nemo,movie,Production,Administration,2009049
+Paul Kim,2003,13,Finding Nemo,movie,Crew,Thanks,2009049
+Keith Kolder,2003,13,Finding Nemo,movie,Crew,Public Relations,2009050
+Keith Kolder,2003,13,Finding Nemo,movie,Crew,Thanks,2009050
+Keith Kops,2003,13,Finding Nemo,movie,Crew,Security,2009051
+Keith Kops,2003,13,Finding Nemo,movie,Crew,Thanks,2009051
+Renee Lamri,2003,13,Finding Nemo,movie,Crew,Thanks,2009052
+Brandon T. Loose,2003,13,Finding Nemo,movie,Crew,Thanks,2009053
+Emery Low,2003,13,Finding Nemo,movie,Crew,Public Relations,2009054
+Emery Low,2003,13,Finding Nemo,movie,Crew,Thanks,2009054
+Candelaria Lozano,2003,13,Finding Nemo,movie,Crew,Craft Service,2009055
+Candelaria Lozano,2003,13,Finding Nemo,movie,Crew,Thanks,2009055
+Andrew Lyndon,2003,13,Finding Nemo,movie,Crew,Thanks,2009056
+Linda McCampbell,2003,13,Finding Nemo,movie,Production,Administration,2009057
+Linda McCampbell,2003,13,Finding Nemo,movie,Crew,Thanks,2009057
+Lisa McCampbell,2003,13,Finding Nemo,movie,Production,Administration,2009058
+Lisa McCampbell,2003,13,Finding Nemo,movie,Crew,Thanks,2009058
+Patricia Moran,2003,13,Finding Nemo,movie,Crew,Public Relations,2009059
+Patricia Moran,2003,13,Finding Nemo,movie,Crew,Thanks,2009059
+Cheryl Murata,2003,13,Finding Nemo,movie,Production,Administration,2009060
+Cheryl Murata,2003,13,Finding Nemo,movie,Crew,Thanks,2009060
+Maricela Navarro,2003,13,Finding Nemo,movie,Crew,Craft Service,2009061
+Maricela Navarro,2003,13,Finding Nemo,movie,Crew,Thanks,2009061
+Molly Nealan,2003,13,Finding Nemo,movie,Production,Administration,2009062
+Molly Nealan,2003,13,Finding Nemo,movie,Crew,Thanks,2009062
+Andrea Nordemann,2003,13,Finding Nemo,movie,Production,Administration,2009063
+Andrea Nordemann,2003,13,Finding Nemo,movie,Crew,Thanks,2009063
+Edgar A. Ochoa,2003,13,Finding Nemo,movie,Crew,Thanks,2009064
+Karen Paik,2003,13,Finding Nemo,movie,Crew,Thanks,2009065
+Marcia Peck,2003,13,Finding Nemo,movie,Crew,Thanks,2009067
+Sangeeta Prashar,2003,13,Finding Nemo,movie,Crew,Thanks,2009068
+Jose Ramirez,2003,13,Finding Nemo,movie,Crew,Craft Service,2009070
+Jose Ramirez,2003,13,Finding Nemo,movie,Crew,Thanks,2009070
+Jonathan G. Rodriguez,2003,13,Finding Nemo,movie,Crew,Security,2009071
+Jonathan G. Rodriguez,2003,13,Finding Nemo,movie,Crew,Thanks,2009071
+Alice Rosen,2003,13,Finding Nemo,movie,Crew,Thanks,2009075
+Guillermo Segovia,2003,13,Finding Nemo,movie,Crew,Craft Service,2009077
+Guillermo Segovia,2003,13,Finding Nemo,movie,Crew,Thanks,2009077
+Dylan Sisson,2003,13,Finding Nemo,movie,Crew,Thanks,2009080
+Joan Smalley,2003,13,Finding Nemo,movie,Production,Administration,2009081
+Joan Smalley,2003,13,Finding Nemo,movie,Crew,Thanks,2009081
+Michele Spane,2003,13,Finding Nemo,movie,Crew,Public Relations,2009082
+Michele Spane,2003,13,Finding Nemo,movie,Crew,Thanks,2009082
+Beatrice Springborn,2003,13,Finding Nemo,movie,Crew,Thanks,2009083
+Adam P. Summers,2003,13,Finding Nemo,movie,Crew,Thanks,2009084
+Krista Swager,2003,13,Finding Nemo,movie,Crew,Public Relations,2009085
+Krista Swager,2003,13,Finding Nemo,movie,Crew,Thanks,2009085
+Osvaldo Tomatis,2003,13,Finding Nemo,movie,Crew,Craft Service,2009086
+Osvaldo Tomatis,2003,13,Finding Nemo,movie,Crew,Thanks,2009086
+Monica VanDis,2003,13,Finding Nemo,movie,Crew,Thanks,2009087
+Olga Velaszquez,2003,13,Finding Nemo,movie,Crew,Craft Service,2009089
+Olga Velaszquez,2003,13,Finding Nemo,movie,Crew,Thanks,2009089
+Valerie Villas,2003,13,Finding Nemo,movie,Crew,Security,2009090
+Valerie Villas,2003,13,Finding Nemo,movie,Crew,Thanks,2009090
+Wendy Wirthlin,2003,13,Finding Nemo,movie,Crew,Thanks,2009092
+Humera Yasmin Khan,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,2009140
+Neftalí Álvarez 'El Magnífico',2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,2009154
+Kelly T. Peters,2003,13,Finding Nemo,movie,Production,Unit Manager,2009155
+Michael Warch,2003,13,Finding Nemo,movie,Production,Unit Manager,2009156
+Siouxsie Stewart,2003,13,Finding Nemo,movie,Production,Unit Manager,2009157
+David Fulp,2003,13,Finding Nemo,movie,Crew,Production Artist,2009158
+James Pearson,2003,13,Finding Nemo,movie,Crew,Production Artist,2009159
+Heidi Cruz,2003,13,Finding Nemo,movie,Crew,Schedule Coordinator,2009160
+James Bartel,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,2009161
+Miles Egan,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,2009162
+Sandy Falby,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,2009163
+Joshua Grant,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,2009164
+Kenneth 'Yo' Huey,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,2009165
+Elise Knowles,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,2009167
+Jeanie T. Oh,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,2009169
+Kathleen H. Parmelee,2003,13,Finding Nemo,movie,Crew,Systems Administrators & Support,2009170
+Rachel Raffael-Gates,2003,13,Finding Nemo,movie,Directing,Script Coordinator,2009172
+Dan Jeup,2003,13,Finding Nemo,movie,Directing,Script Supervisor,2009173
+Ben Catmull,2003,13,Finding Nemo,movie,Visual Effects,Animation,2009175
+Kearsley Higgins,2003,13,Finding Nemo,movie,Visual Effects,Animation Department Coordinator,2009179
+Paul Topolos,2003,13,Finding Nemo,movie,Visual Effects,Matte Painter,2130671
+Vince Caro,2003,13,Finding Nemo,movie,Crew,Additional Dialogue,2215422
+Courtney Booker,2003,13,Finding Nemo,movie,Art,Digital Storyboarding,2216331
+Paul Springer,2003,13,Finding Nemo,movie,Production,Post Production Coordinator,2216338
+Jessica Donohoe,2003,13,Finding Nemo,movie,Production,Production Assistant,2216340
+Blake Tucker,2003,13,Finding Nemo,movie,Writing,Story Manager,2216342

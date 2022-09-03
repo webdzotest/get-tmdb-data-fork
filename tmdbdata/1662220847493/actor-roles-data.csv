@@ -1,0 +1,359 @@
+name,character,year,movie_tv_id,movie_tv_name,type,department,order,actor_id
+Penny Singleton,Blondie,1938,1,Blondie,movie,Acting,0,34178
+Arthur Lake,Dagwood,1938,1,Blondie,movie,Acting,1,34179
+Larry Simms,Baby Dumpling,1938,1,Blondie,movie,Acting,2,30223
+Daisy,Daisy,1938,1,Blondie,movie,Acting,3,34214
+Ann Doran,Elsie Hazlip,1938,1,Blondie,movie,Acting,4,2772
+Dorothy Moore,Dorothy,1938,1,Blondie,movie,Acting,5,34183
+Gene Lockhart,C.P. Hazlip,1938,1,Blondie,movie,Acting,6,30234
+Jonathan Hale,Mr. Dithers,1938,1,Blondie,movie,Acting,7,12502
+Gordon Oliver,Chester Franey,1938,1,Blondie,movie,Acting,8,34180
+Danny Mummert,Alvin,1938,1,Blondie,movie,Acting,9,34181
+Kathleen Lockhart,Mrs. Miller,1938,1,Blondie,movie,Acting,10,34182
+Willie Best,Porter,1938,1,Blondie,movie,Acting,11,34185
+Ian Wolfe,Judge,1938,1,Blondie,movie,Acting,12,2782
+Eugene Anderson Jr,Newsboy (uncredited),1938,1,Blondie,movie,Acting,13,1292673
+Stanley Andrews,Mr. Hicks (uncredited),1938,1,Blondie,movie,Acting,14,34505
+Hooper Atchley,Man on Bus (uncredited),1938,1,Blondie,movie,Acting,15,121097
+Stanley Brown,S.W. Carey Salesman (uncredited),1938,1,Blondie,movie,Acting,16,34241
+Mary Jane Carey,Mary (uncredited),1938,1,Blondie,movie,Acting,17,1173491
+Dick Curtis,Daily Gazette Reporter (uncredited),1938,1,Blondie,movie,Acting,18,153638
+Edgar Dearing,Policeman at Hotel (uncredited),1938,1,Blondie,movie,Acting,19,1240252
+Richard Fiske,Nelson (uncredited),1938,1,Blondie,movie,Acting,20,34243
+James Flavin,Policeman in Accident Car (uncredited),1938,1,Blondie,movie,Acting,21,3262
+Fay Helm,Mrs. Fuddle (uncredited),1938,1,Blondie,movie,Acting,22,34184
+George Humbert,Pie Salesman (uncredited),1938,1,Blondie,movie,Acting,23,106091
+Bud Jamison,Repossessor (uncredited),1938,1,Blondie,movie,Acting,24,89615
+Charles Lane,Furniture Salesman (uncredited),1938,1,Blondie,movie,Acting,25,29579
+Harold Minjir,Mr. Phillips (uncredited),1938,1,Blondie,movie,Acting,26,1005423
+David Newell,First Draftsman (uncredited),1938,1,Blondie,movie,Acting,27,942165
+Emory Parnell,Police Desk Sergeant (uncredited),1938,1,Blondie,movie,Acting,28,124875
+John Rand,Gardener (uncredited),1938,1,Blondie,movie,Acting,29,21310
+Bruce Sidney,Detective at Hotel (uncredited),1938,1,Blondie,movie,Acting,30,1420879
+Walter Soderling,Mr. Morgan (uncredited),1938,1,Blondie,movie,Acting,31,34270
+Larry Steers,Assistant Hotel Clerk (uncredited),1938,1,Blondie,movie,Acting,32,135827
+Josephine Whittell,Woman Seeing Optometrist (uncredited),1938,1,Blondie,movie,Acting,33,99376
+Irving Bacon,Mr. Beazley (uncredited),1938,1,Blondie,movie,Acting,34,30530
+Harry Liedtke,Peter Voss,1921,2,Der Mann ohne Namen,movie,Acting,0,48038
+Georg Alexander,Bobby Dodd,1921,2,Der Mann ohne Namen,movie,Acting,1,28126
+Mady Christians,Gert Nissen,1921,2,Der Mann ohne Namen,movie,Acting,2,14357
+Jakob Tiedtke,Frederik Nissen,1921,2,Der Mann ohne Namen,movie,Acting,3,14131
+Jean-Pierre Léaud,"Antoine Doinel (segment ""Antoine et Colette"")",1962,3,L'amour à vingt ans,movie,Acting,0,1653
+Marie-France Pisier,"Colette (segment ""Antoine et Colette"")",1962,3,L'amour à vingt ans,movie,Acting,1,3536
+Patrick Auffay,"René (segment ""Antoine et Colette"")",1962,3,L'amour à vingt ans,movie,Acting,2,1659
+Rosy Varte,"La mère de Colette (segment ""Antoine et Colette"")",1962,3,L'amour à vingt ans,movie,Acting,3,3537
+François Darbon,"Le beau-père de Colette (segment ""Antoine et Colette"")",1962,3,L'amour à vingt ans,movie,Acting,4,3518
+Jean-François Adam,"Albert Tazzi (segment ""Antoine et Colette"")",1962,3,L'amour à vingt ans,movie,Acting,5,3538
+Pierre Schaeffer,"Himself (segment ""Antoine et Colette"")",1962,3,L'amour à vingt ans,movie,Sound,6,1003228
+Cristina Gaïoni,Christina,1962,3,L'amour à vingt ans,movie,Acting,7,237623
+Geronimo Meynier,Leonardo,1962,3,L'amour à vingt ans,movie,Acting,8,1003229
+Eleonora Rossi Drago,Valentina,1962,3,L'amour à vingt ans,movie,Acting,9,25789
+Nami Tamura,Fukimo,1962,3,L'amour à vingt ans,movie,Acting,10,1003230
+Koji Furuhata,Hiroshi,1962,3,L'amour à vingt ans,movie,Acting,11,30906
+Barbara Frey,Ursula,1962,3,L'amour à vingt ans,movie,Acting,12,37781
+Christian Doermer,Tonio,1962,3,L'amour à vingt ans,movie,Acting,13,32934
+Vera Tschechowa,,1962,3,L'amour à vingt ans,movie,Acting,14,51406
+Werner Finck,,1962,3,L'amour à vingt ans,movie,Acting,15,39044
+Barbara Lass,"Basia (segment ""Warszawa"")",1962,3,L'amour à vingt ans,movie,Acting,16,10623
+Zbigniew Cybulski,"Zbyszek (segment ""Warszawa"")",1962,3,L'amour à vingt ans,movie,Acting,17,40914
+Władysław Kowalski,"Wladek (segment ""Warszawa"")",1962,3,L'amour à vingt ans,movie,Acting,18,17889
+Damian Damięcki,"(segment ""Warszawa"")",1962,3,L'amour à vingt ans,movie,Acting,19,146878
+Jan Englert,"Kelega Basi (segment ""Warszawa"")",1962,3,L'amour à vingt ans,movie,Acting,20,107633
+Marian Opania,"Misiek (segment ""Warszawa"")",1962,3,L'amour à vingt ans,movie,Acting,21,2825
+Barbara Sołtysik,"Kolezanka Basi (segment ""Warszawa"")",1962,3,L'amour à vingt ans,movie,Acting,22,1191254
+Jolanta Wołłejko,"Kolezanka Basi (segment ""Warszawa"")",1962,3,L'amour à vingt ans,movie,Acting,23,1157939
+Catherine-Isabelle Duport,Young Girl at Concert (uncredited),1962,3,L'amour à vingt ans,movie,Acting,24,39068
+Darren Berrecloth,Darren Berrecloth,2008,4,New World Disorder 9: Never Enough,movie,Acting,0,84130
+Cameron McCaul,Cameron McCaul,2008,4,New World Disorder 9: Never Enough,movie,Acting,1,84143
+Paul Basagoitia,Paul Basagoitia,2008,4,New World Disorder 9: Never Enough,movie,Acting,2,112801
+Brandon Semenuk,Brandon Semenuk,2008,4,New World Disorder 9: Never Enough,movie,Acting,3,112818
+Alex Pro,Alex Pro,2008,4,New World Disorder 9: Never Enough,movie,Acting,4,115965
+Andreu Lacondeguy,Andreu Lacondeguy,2008,4,New World Disorder 9: Never Enough,movie,Acting,5,112793
+Wayne Goss,Wayne Goss,2008,4,New World Disorder 9: Never Enough,movie,Acting,6,112794
+Ben Boyko,Ben Boyko,2008,4,New World Disorder 9: Never Enough,movie,Acting,7,112798
+Turo Pajala,Taisto Kasurinen,1988,6,Ariel,movie,Acting,0,54768
+Susanna Haavisto,Irmeli Pihlaja,1988,6,Ariel,movie,Acting,1,54769
+Matti Pellonpää,Mikkonen,1988,6,Ariel,movie,Acting,2,4826
+Eetu Hilkamo,Riku,1988,6,Ariel,movie,Acting,3,54770
+Erkki Pajala,Miner,1988,6,Ariel,movie,Acting,4,1177496
+Matti Jaaranen,Mugger,1988,6,Ariel,movie,Acting,5,2493350
+Hannu Viholainen,Accomplice,1988,6,Ariel,movie,Acting,6,2509142
+Jorma Markkula,Tallyman,1988,6,Ariel,movie,Acting,7,110757
+Tarja Keinänen,Woman in Harbour,1988,6,Ariel,movie,Acting,8,1034494
+Eino Kuusela,Man on Beach,1988,6,Ariel,movie,Acting,9,2509144
+Kauko Laalo,Night Hostel Manager,1988,6,Ariel,movie,Acting,10,1207858
+Jyrki Olsonen,Man in Night Hostel,1988,6,Ariel,movie,Acting,11,2509145
+Esko Nikkari,Car Dealer,1988,6,Ariel,movie,Acting,12,53508
+Marja Packalén,Judge,1988,6,Ariel,movie,Acting,13,53512
+Mikko Remes,Prison Doctor,1988,6,Ariel,movie,Acting,14,2509146
+Tomi Salmela,Guard,1988,6,Ariel,movie,Acting,15,4829
+Reijo Marin,Guard,1988,6,Ariel,movie,Acting,16,2509147
+Heikki Salomaa,Guard,1988,6,Ariel,movie,Acting,17,2509149
+Veikko Uusimäki,Mayor,1988,6,Ariel,movie,Acting,18,1207842
+Esko Salminen,Crook,1988,6,Ariel,movie,Acting,19,56273
+Hannu Kivisalo,Doorman,1988,6,Ariel,movie,Acting,20,2509151
+Pekka Wilen,Skipper,1988,6,Ariel,movie,Acting,21,2509152
+Juuso Hirvikangas,Man in Harbour (uncredited),1988,6,Ariel,movie,Acting,22,110756
+Heikki Anttila,Man in Harbour (uncredited),1988,6,Ariel,movie,Acting,23,3416563
+Jaakko Talaskivi,Cook (uncredited),1988,6,Ariel,movie,Acting,24,4831
+Jouko Lumme,Cook (uncredited),1988,6,Ariel,movie,Sound,25,16772
+Sirkka Rautiainen,Woman Watching TV (uncredited),1988,6,Ariel,movie,Production,26,1416993
+Markku Rantala,Man in Tunnel (uncredited),1988,6,Ariel,movie,Acting,27,3480732
+Mikko Lyytikäinen,Court Member (uncredited),1988,6,Ariel,movie,Acting,28,2289558
+Timo Toikka,Man in Courtroom (uncredited),1988,6,Ariel,movie,Acting,29,1948071
+Hanna Jokinen,Woman in Courtroom (uncredited),1988,6,Ariel,movie,Acting,30,1207853
+Timo Harakka,Man in Courtroom (uncredited),1988,6,Ariel,movie,Writing,31,2868528
+Sami Lanki,Man in Courtroom (uncredited),1988,6,Ariel,movie,Acting,32,999634
+Kari Helaseppä,Man in Courtroom (uncredited),1988,6,Ariel,movie,Acting,33,3083060
+Timo Markko,Prisoner (uncredited),1988,6,Ariel,movie,Camera,34,1750241
+Olli Varja,Prisoner (uncredited),1988,6,Ariel,movie,Lighting,35,1381113
+Sakari Kuosmanen,Doorman (voice) (uncredited),1988,6,Ariel,movie,Acting,36,4828
+Pentti Auer,Skipper (voice) (uncredited),1988,6,Ariel,movie,Acting,37,110763
+Matti Pellonpää,Nikander,1986,7,Varjoja paratiisissa,movie,Acting,0,4826
+Kati Outinen,Ilona Rajamäki,1986,7,Varjoja paratiisissa,movie,Acting,1,5999
+Sakari Kuosmanen,Melartin,1986,7,Varjoja paratiisissa,movie,Acting,2,4828
+Esko Nikkari,Nikander's Co-Worker,1986,7,Varjoja paratiisissa,movie,Acting,3,53508
+Kylli Köngäs,Ilona's Friend,1986,7,Varjoja paratiisissa,movie,Acting,4,1086499
+Pekka Laiho,Store Manager,1986,7,Varjoja paratiisissa,movie,Acting,5,222320
+Jukka-Pekka Palo,Third Man,1986,7,Varjoja paratiisissa,movie,Acting,6,1086500
+Svante Korkiakoski,Police Officer,1986,7,Varjoja paratiisissa,movie,Acting,7,2307211
+Mari Rantasila,Nikander's Sister,1986,7,Varjoja paratiisissa,movie,Acting,8,148389
+Safka Pekkonen,Pianist,1986,7,Varjoja paratiisissa,movie,Acting,9,1761924
+Antti Ortamo,Pianist,1986,7,Varjoja paratiisissa,movie,Sound,10,2651471
+Mato Valtonen,Pelle,1986,7,Varjoja paratiisissa,movie,Acting,11,106172
+Sakke Järvenpää,Staffan,1986,7,Varjoja paratiisissa,movie,Acting,12,69552
+Ulla Kuosmanen,Melartin's Wife,1986,7,Varjoja paratiisissa,movie,Acting,13,2651474
+Neka Haapanen,Cook,1986,7,Varjoja paratiisissa,movie,Acting,14,1294421
+Pentti Koski,Singer,1986,7,Varjoja paratiisissa,movie,Acting,15,2651478
+Ari Korhonen,Man in Restaurant,1986,7,Varjoja paratiisissa,movie,Acting,16,2651481
+Teuvo Rissanen,Police Officer,1986,7,Varjoja paratiisissa,movie,Acting,17,2651483
+Erkki Rissanen,Porter,1986,7,Varjoja paratiisissa,movie,Acting,18,2651486
+Sirkka Silin,Woman in Restaurant,1986,7,Varjoja paratiisissa,movie,Acting,19,2651487
+Marina Martinoff,Hostess,1986,7,Varjoja paratiisissa,movie,Acting,20,2651488
+Jussi Tiitinen,Garbage Man / Bartender,1986,7,Varjoja paratiisissa,movie,Acting,21,2651489
+Riikka Kuosmanen,Melartin's Daughter,1986,7,Varjoja paratiisissa,movie,Acting,22,2651491
+Eskil Mansikka,Keyboardist (uncredited),1986,7,Varjoja paratiisissa,movie,Acting,23,3457313
+Jaakko Talaskivi,Guard (uncredited),1986,7,Varjoja paratiisissa,movie,Acting,24,4831
+Haije Alanoja,Woman in Restaurant (uncredited),1986,7,Varjoja paratiisissa,movie,Production,25,2159274
+Bertta Pellonpää,Bingo Player (uncredited),1986,7,Varjoja paratiisissa,movie,Acting,26,3479164
+Helmeri Pellonpää,Bingo Player (uncredited),1986,7,Varjoja paratiisissa,movie,Acting,27,2651545
+Marja-Leena Hukkanen,Woman in Restaurant (uncredited),1986,7,Varjoja paratiisissa,movie,Camera,28,1303969
+Aki Kaurismäki,Hotel Receptionist (uncredited),1986,7,Varjoja paratiisissa,movie,Directing,29,16767
+Olli Varja,Customer (uncredited),1986,7,Varjoja paratiisissa,movie,Lighting,30,1381113
+Tanja Talaskivi,Woman in Cinema (uncredited),1986,7,Varjoja paratiisissa,movie,Acting,31,3477088
+Jukka Mäkinen,Garbage Man (uncredited),1986,7,Varjoja paratiisissa,movie,Directing,32,1912097
+Tim Roth,Ted the Bellhop,1995,8,Four Rooms,movie,Acting,0,3129
+Jennifer Beals,Angela,1995,8,Four Rooms,movie,Acting,1,3130
+Antonio Banderas,Man,1995,8,Four Rooms,movie,Acting,2,3131
+Valeria Golino,Athena,1995,8,Four Rooms,movie,Acting,3,3124
+David Proval,Siegfried,1995,8,Four Rooms,movie,Acting,4,2555
+Sammi Davis,Jezebel,1995,8,Four Rooms,movie,Acting,5,3122
+Amanda de Cadenet,Diana,1995,8,Four Rooms,movie,Acting,6,3123
+Madonna,Elspeth,1995,8,Four Rooms,movie,Acting,7,3125
+Ione Skye,Eva,1995,8,Four Rooms,movie,Acting,8,3126
+Lili Taylor,Raven,1995,8,Four Rooms,movie,Acting,9,3127
+Alicia Witt,Kiva,1995,8,Four Rooms,movie,Acting,10,3128
+Tamlyn Tomita,Wife,1995,8,Four Rooms,movie,Acting,11,3134
+Lana McKissack,Sarah,1995,8,Four Rooms,movie,Acting,12,3132
+Danny Verduzco,Juancho,1995,8,Four Rooms,movie,Acting,13,3135
+Patricia Vonne,Corpse,1995,8,Four Rooms,movie,Acting,14,3133
+Salma Hayek,TV Dancing Girl,1995,8,Four Rooms,movie,Acting,15,3136
+Quentin Tarantino,Chester Rush,1995,8,Four Rooms,movie,Directing,16,138
+Paul Calderon,Norman,1995,8,Four Rooms,movie,Acting,17,3137
+Bruce Willis,Leo (uncredited),1995,8,Four Rooms,movie,Acting,18,62
+Marisa Tomei,Margaret,1995,8,Four Rooms,movie,Acting,19,3141
+Lawrence Bender,Long Hair Yuppy Scum,1995,8,Four Rooms,movie,Production,20,2545
+Kathy Griffin,Betty,1995,8,Four Rooms,movie,Acting,21,3138
+Kimberly Blair,Hooker,1995,8,Four Rooms,movie,Acting,22,37336
+Marc Lawrence,Sam the Bellhop,1995,8,Four Rooms,movie,Acting,23,3140
+Paul Skemp,Real Theodore,1995,8,Four Rooms,movie,Writing,24,1207062
+Emilio Estevez,Frank Wyatt,1993,9,Judgment Night,movie,Acting,0,2880
+Cuba Gooding Jr.,Mike Peterson,1993,9,Judgment Night,movie,Acting,1,9777
+Denis Leary,Fallon,1993,9,Judgment Night,movie,Acting,2,5724
+Stephen Dorff,John Wyatt,1993,9,Judgment Night,movie,Acting,3,10822
+Jeremy Piven,Ray Cochran,1993,9,Judgment Night,movie,Acting,4,12799
+Peter Greene,Sykes,1993,9,Judgment Night,movie,Acting,5,11803
+Michael DeLorenzo,"Teddy, the Kid",1993,9,Judgment Night,movie,Acting,6,52422
+Everlast,Rhodes,1993,9,Judgment Night,movie,Acting,7,121667
+Michael Wiseman,Travis,1993,9,Judgment Night,movie,Acting,8,102710
+Relioues Webb,Dre,1993,9,Judgment Night,movie,Acting,9,1077264
+Eugene Williams,Buck,1993,9,Judgment Night,movie,Acting,10,154124
+Christine Harnos,Linda Wyatt,1993,9,Judgment Night,movie,Acting,11,55964
+Galyn Görg,Clarissa,1993,9,Judgment Night,movie,Acting,12,105988
+Angela Alvarado,Rita,1993,9,Judgment Night,movie,Acting,13,22621
+Will Zahrn,Charley,1993,9,Judgment Night,movie,Acting,14,1226696
+Rita Lengyel,Alexandra,2004,11,Sonntag im August,movie,Acting,0,901
+Milton Welsh,Er,2004,11,Sonntag im August,movie,Acting,1,902
+Mark Hamill,Luke Skywalker,1977,12,Star Wars,movie,Acting,0,2
+Harrison Ford,Han Solo,1977,12,Star Wars,movie,Acting,1,3
+Carrie Fisher,Princess Leia Organa,1977,12,Star Wars,movie,Acting,2,4
+Peter Cushing,Grand Moff Tarkin,1977,12,Star Wars,movie,Acting,3,5
+Alec Guinness,"Obi-Wan ""Ben"" Kenobi",1977,12,Star Wars,movie,Acting,4,12248
+Anthony Daniels,C-3PO,1977,12,Star Wars,movie,Acting,5,6
+Kenny Baker,R2-D2,1977,12,Star Wars,movie,Acting,6,130
+Peter Mayhew,Chewbacca,1977,12,Star Wars,movie,Acting,7,24343
+David Prowse,Darth Vader (performer),1977,12,Star Wars,movie,Acting,8,24342
+James Earl Jones,Darth Vader (voice),1977,12,Star Wars,movie,Acting,9,15152
+Phil Brown,Uncle Owen,1977,12,Star Wars,movie,Acting,10,33032
+Shelagh Fraser,Aunt Beru,1977,12,Star Wars,movie,Acting,11,131625
+Jack Purvis,Chief Jawa,1977,12,Star Wars,movie,Acting,12,132538
+Alex McCrindle,General Dodonna,1977,12,Star Wars,movie,Acting,13,216087
+Eddie Byrne,General Willard,1977,12,Star Wars,movie,Acting,14,69249
+Drewe Henley,Red Leader,1977,12,Star Wars,movie,Acting,15,47401
+Denis Lawson,Red Two (Wedge Antilles),1977,12,Star Wars,movie,Acting,16,47698
+Garrick Hagon,Red Three (Biggs Darklighter),1977,12,Star Wars,movie,Acting,17,17356
+Jack Klaff,"Red Four (John ""D"")",1977,12,Star Wars,movie,Acting,18,162432
+William Hootkins,Red Six (Porkins),1977,12,Star Wars,movie,Acting,19,663
+Angus MacInnes,Gold Leader,1977,12,Star Wars,movie,Acting,20,58475
+Jeremy Sinden,Gold Two,1977,12,Star Wars,movie,Acting,21,151819
+Graham Ashley,Gold Five,1977,12,Star Wars,movie,Acting,22,202276
+Don Henderson,General Taggi,1977,12,Star Wars,movie,Acting,23,42570
+Richard LeParmentier,General Motti,1977,12,Star Wars,movie,Acting,24,12829
+Leslie Schofield,Commander #1,1977,12,Star Wars,movie,Acting,25,79489
+Michael Leader,Stormtrooper,1977,12,Star Wars,movie,Acting,26,1729623
+David Ankrum,"Red Two, Wedge Antilles (voice) (uncredited)",1977,12,Star Wars,movie,Acting,27,1216947
+Scott Beach,Stormtrooper (voice) (uncredited),1977,12,Star Wars,movie,Acting,28,3044
+Lightning Bear,Stormtrooper (uncredited),1977,12,Star Wars,movie,Crew,29,1271059
+Jon Berg,Cantina Alien (uncredited),1977,12,Star Wars,movie,Acting,30,1271060
+Doug Beswick,Cantina Alien (uncredited),1977,12,Star Wars,movie,Visual Effects,31,1271061
+Paul Blake,Greedo (uncredited),1977,12,Star Wars,movie,Acting,32,199356
+Janice Burchette,Nabrun Leids (uncredited),1977,12,Star Wars,movie,Acting,33,1271062
+Ted Burnett,Wuher (uncredited),1977,12,Star Wars,movie,Acting,34,1271063
+John Chapman,Drifter (Red 12) (uncredited),1977,12,Star Wars,movie,Acting,35,1271064
+Gilda Cohen,Cantina Patron (uncredited),1977,12,Star Wars,movie,Acting,36,1271065
+Tim Condren,Stormtrooper (uncredited),1977,12,Star Wars,movie,Acting,37,1178140
+Barry Copping,Wioslea (uncredited),1977,12,Star Wars,movie,Acting,38,186229
+Alfie Curtis,Dr. Evazan (uncredited),1977,12,Star Wars,movie,Acting,39,1271066
+Robert Davies,Cantina Patron (uncredited),1977,12,Star Wars,movie,Acting,40,1271067
+Maria De Aragon,Greedo (uncredited),1977,12,Star Wars,movie,Acting,41,104149
+Robert A. Denham,Hrchek Kal Fas (uncredited),1977,12,Star Wars,movie,Acting,42,1271068
+Frazer Diamond,Jawa (uncredited),1977,12,Star Wars,movie,Acting,43,1271069
+Peter Diamond,Stormtrooper / Tusken Raider / Death Star Trooper / Garouf Lafoe (uncredited),1977,12,Star Wars,movie,Acting,44,53587
+Warwick Diamond,Jawa (uncredited),1977,12,Star Wars,movie,Acting,45,1271070
+Sadie Eden,Garindan (uncredited),1977,12,Star Wars,movie,Acting,46,1271071
+Kim Falkinburg,Djas Puhr (uncredited),1977,12,Star Wars,movie,Acting,47,1271072
+Harry Fielder,Death Star Trooper (uncredited),1977,12,Star Wars,movie,Acting,48,202402
+Ted Gagliano,Stormtrooper with Binoculars (uncredited),1977,12,Star Wars,movie,Acting,49,1271073
+Salo Gardner,Cantina Patron (uncredited),1977,12,Star Wars,movie,Acting,50,1271074
+Steve Gawley,Death Star Trooper (uncredited),1977,12,Star Wars,movie,Acting,51,1195602
+Barry Gnome,Kabe (uncredited),1977,12,Star Wars,movie,Acting,52,1271075
+Rusty Goffe,Kabe / Jawa / GONK Droid (uncredited),1977,12,Star Wars,movie,Acting,53,252527
+Isaac Grand,Cantina Patron (uncredited),1977,12,Star Wars,movie,Acting,54,1271076
+Reg Harding,Stormtrooper (uncredited),1977,12,Star Wars,movie,Acting,55,1271078
+Alan Harris,Leia's Rebel Escort (uncredited),1977,12,Star Wars,movie,Crew,56,964699
+Frank Henson,Stormtrooper (uncredited),1977,12,Star Wars,movie,Acting,57,1271079
+Christine Hewett,Brea Tonnika (uncredited),1977,12,Star Wars,movie,Acting,58,1271080
+Arthur Howell,Stormtrooper (uncredited),1977,12,Star Wars,movie,Acting,59,1271081
+Tommy Ilsley,Ponda Baba (uncredited),1977,12,Star Wars,movie,Acting,60,1271082
+Joe Johnston,Death Star Trooper (uncredited),1977,12,Star Wars,movie,Directing,61,4945
+Annette Jones,Mosep (uncredited),1977,12,Star Wars,movie,Acting,62,1271083
+Linda Jones,Chall Bekan (uncredited),1977,12,Star Wars,movie,Acting,63,1148750
+Joe Kaye,Solomohal (uncredited),1977,12,Star Wars,movie,Acting,64,201344
+Colin Michael Kitchens,Stormtrooper (voice) (uncredited),1977,12,Star Wars,movie,Production,65,1271085
+Melissa Kurtz,Jawa (uncredited),1977,12,Star Wars,movie,Acting,66,1271086
+Tiffany Hillkurtz,Jawa (uncredited),1977,12,Star Wars,movie,Editing,67,1190780
+Al Lampert,Daine Jir (uncredited),1977,12,Star Wars,movie,Acting,68,190453
+Anthony Lang,BoShek (uncredited),1977,12,Star Wars,movie,Acting,69,1012562
+Laine Liska,Muftak / Cantina Band Member (uncredited),1977,12,Star Wars,movie,Acting,70,1271091
+Derek Lyons,Temple Guard / Medal Bearer (uncredited),1977,12,Star Wars,movie,Acting,71,1271092
+Mahjoub,Jawa (uncredited),1977,12,Star Wars,movie,Acting,72,1271095
+Alf Mangan,Takeel (uncredited),1977,12,Star Wars,movie,Acting,73,1271096
+Grant McCune,Death Star Gunner (uncredited),1977,12,Star Wars,movie,Acting,74,1271102
+Geoffrey Moon,Cantina Patron (uncredited),1977,12,Star Wars,movie,Acting,75,1271104
+Mandy Morton,Swilla Corey (uncredited),1977,12,Star Wars,movie,Acting,76,1271106
+Lorne Peterson,Massassi Base Rebel Scout (uncredited),1977,12,Star Wars,movie,Acting,77,1271107
+Marcus Powell,Rycar Ryjerd (uncredited),1977,12,Star Wars,movie,Acting,78,1183443
+Shane Rimmer,InCom Engineer (uncredited),1977,12,Star Wars,movie,Acting,79,10657
+Pam Rose,Leesub Sirln (uncredited),1977,12,Star Wars,movie,Acting,80,1271116
+George Roubicek,Cmdr. Praji (Imperial Officer #2 on rebel ship) (uncredited),1977,12,Star Wars,movie,Acting,81,110319
+Erica Simmons,Tawss Khaa (uncredited),1977,12,Star Wars,movie,Acting,82,1271121
+Angela Staines,Senni Tonnika (uncredited),1977,12,Star Wars,movie,Acting,83,1271122
+George Stock,Cantina Patron (uncredited),1977,12,Star Wars,movie,Acting,84,1271123
+Roy Straite,Cantina Patron (uncredited),1977,12,Star Wars,movie,Acting,85,1271124
+Peter Sturgeon,Sai'torr Kal Fas (uncredited),1977,12,Star Wars,movie,Acting,86,1271125
+Peter Sumner,Lt. Pol Treidum (uncredited),1977,12,Star Wars,movie,Acting,87,187398
+John Sylla,Cantina Voices (voice) (uncredited),1977,12,Star Wars,movie,Acting,88,1271126
+Tom Sylla,Massassi Outpost Announcer / Various Voices (voice) (uncredited),1977,12,Star Wars,movie,Directing,89,390158
+Malcolm Tierney,Lt. Shann Childsen (uncredited),1977,12,Star Wars,movie,Acting,90,166258
+Phil Tippett,Cantina Alien (uncredited),1977,12,Star Wars,movie,Visual Effects,91,7727
+Burnell Tucker,Del Goren (uncredited),1977,12,Star Wars,movie,Acting,92,184980
+Morgan Upton,Stormtrooper (voice) (uncredited),1977,12,Star Wars,movie,Acting,93,160947
+Jerry Walter,Stormtrooper (voice) (uncredited),1977,12,Star Wars,movie,Acting,94,161301
+Hal Wamsley,Jawa (uncredited),1977,12,Star Wars,movie,Acting,95,1271127
+Larry Ward,Greedo (voice) (uncredited),1977,12,Star Wars,movie,Acting,96,159108
+Diana Sadley Way,Thuku (uncredited),1977,12,Star Wars,movie,Acting,97,1271128
+Bill Weston,Stormtrooper (uncredited),1977,12,Star Wars,movie,Acting,98,24278
+Fred Wood,Cantina Patron (uncredited),1977,12,Star Wars,movie,Acting,99,1271131
+Colin Higgins,"Rebel Pilot, Col. Takbright (uncredited)",1977,12,Star Wars,movie,Acting,100,301657
+Ron Tarr,Jabba's Henchman (uncredited),1977,12,Star Wars,movie,Acting,101,1490615
+Anthony Forrest,Sandtrooper / Fixer (uncredited),1977,12,Star Wars,movie,Acting,102,227857
+Frances Alfred Basil Tomlin,BoShek (uncredited),1977,12,Star Wars,movie,Acting,103,2646226
+Ronny Cush,X-Wing Pilot,1977,12,Star Wars,movie,Acting,104,2724038
+Albert Brooks,Marlin (voice),2003,13,Finding Nemo,movie,Acting,0,13
+Ellen DeGeneres,Dory (voice),2003,13,Finding Nemo,movie,Acting,1,14
+Alexander Gould,Nemo (voice),2003,13,Finding Nemo,movie,Acting,2,12
+Willem Dafoe,Gill (voice),2003,13,Finding Nemo,movie,Acting,3,5293
+Brad Garrett,Bloat (voice),2003,13,Finding Nemo,movie,Acting,4,18
+Allison Janney,Peach (voice),2003,13,Finding Nemo,movie,Acting,5,19
+Austin Pendleton,Gurgle (voice),2003,13,Finding Nemo,movie,Acting,6,6168
+Stephen Root,Bubbles (voice),2003,13,Finding Nemo,movie,Acting,7,17401
+Vicki Lewis,Deb / Flo (voice),2003,13,Finding Nemo,movie,Acting,8,14723
+Joe Ranft,Jacques (voice),2003,13,Finding Nemo,movie,Writing,9,7911
+Geoffrey Rush,Nigel (voice),2003,13,Finding Nemo,movie,Acting,10,118
+Andrew Stanton,Crush (voice),2003,13,Finding Nemo,movie,Writing,11,7
+Elizabeth Perkins,Coral (voice),2003,13,Finding Nemo,movie,Acting,12,20
+Nicholas Bird,Squirt (voice),2003,13,Finding Nemo,movie,Acting,13,981048
+Bob Peterson,Mr. Ray (voice),2003,13,Finding Nemo,movie,Acting,14,10
+Barry Humphries,Bruce (voice),2003,13,Finding Nemo,movie,Acting,15,22
+Eric Bana,Anchor (voice),2003,13,Finding Nemo,movie,Acting,16,8783
+Bruce Spence,Chum (voice),2003,13,Finding Nemo,movie,Acting,17,27752
+Bill Hunter,Dentist (voice),2003,13,Finding Nemo,movie,Acting,18,23
+LuLu Ebeling,Darla (voice),2003,13,Finding Nemo,movie,Acting,19,981049
+Jordan Ranft,Tad (voice),2003,13,Finding Nemo,movie,Acting,20,1211731
+Erica Beck,Pearl (voice),2003,13,Finding Nemo,movie,Acting,21,1372790
+Erik Per Sullivan,Sheldon (voice),2003,13,Finding Nemo,movie,Acting,22,17190
+John Ratzenberger,Fish School (voice),2003,13,Finding Nemo,movie,Acting,23,7907
+Carlos Alazraqui,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,24,59784
+Alec Medlock,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,25,91776
+Bob Bergen,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,26,78317
+Nicole Miller,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,27,1440346
+Geoff Brooks,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,28,28746
+Lisa Peers,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,29,1356958
+Paul Eiding,Additional Voice  (voice),2003,13,Finding Nemo,movie,Acting,30,86006
+Phil Proctor,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,31,61969
+Leland Grossman,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,32,3398277
+Daryl Sabara,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,33,57675
+Lili Ishida,Additional Voices,2003,13,Finding Nemo,movie,Acting,34,3147350
+Emmett Shoemaker,Additional Voices (voice),2003,13,Finding Nemo,movie,Acting,35,1224858
+Oliver Kindred,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,36,75322
+Ben Stanton,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,37,3398279
+Danny Mann,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,38,52699
+Kali Whitehurst,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,39,3149499
+Rove McManus,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,40,136272
+James S. Baker,Additional Voices  (voice),2003,13,Finding Nemo,movie,Art,41,1992727
+Vanessa Marano,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,42,120617
+Susan Blu,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,43,19548
+Annelise Nolting,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,44,3398280
+Jeff Pidgeon,Additional Voices  (voice),2003,13,Finding Nemo,movie,Writing,45,7882
+Jennifer Darling,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,46,81843
+Aaron Fors,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,47,53209
+Katherine Ringgold,Additional Voices  (voice),2003,13,Finding Nemo,movie,Editing,48,8066
+Jess Harnell,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,49,84495
+David Ian Salter,Additional Voices  (voice),2003,13,Finding Nemo,movie,Editing,50,12914
+Caroline Kindred,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,51,3398285
+Sherry Lynn,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,52,214701
+Jim Ward,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,53,86007
+Mickie McGowan,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,54,84493
+Jack Angel,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,55,19545
+Laura Marano,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,56,54722
+Bobby Block,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,57,12078
+Laraine Newman,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,58,35159
+Jane Carr,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,59,42000
+Jessie Flower,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,60,61304
+Jan Rabson,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,61,157626
+Bradley Trevor Greive,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,62,2150365
+Evan Sabara,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,63,38407
+Marc John Jefferies,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,64,62646
+Eliza Schneider,Additional Voices  (voice),2003,13,Finding Nemo,movie,Acting,65,181464
+Lee Unkrich,Additional Voices  (voice),2003,13,Finding Nemo,movie,Directing,66,8
+Noah Luke,Additional Voices  (voice),2003,13,Finding Nemo,movie,Camera,67,1231571
