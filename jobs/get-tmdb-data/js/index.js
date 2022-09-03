@@ -238,6 +238,9 @@ const getMoviesFromTmdb = async () => {
 }
 
 const appendToCsv = async (moviesData, movieTranslationsData, actorRolesData, movieActorsData, actorCrewsData, imagesData, videosData, keywordsData, csvTime) => {
+  if (!fs.existsSync(`../../tmdbdata/${csvTime}`)){
+    fs.mkdirSync(`../../tmdbdata/${csvTime}`);
+  }
   const moviesCsvData = new ObjectsToCsv(moviesData);
   await moviesCsvData.toDisk(`../../tmdbdata/${csvTime}/movies-data.csv`, { append: true });
   const translationsCsvData = new ObjectsToCsv(movieTranslationsData);
@@ -254,6 +257,7 @@ const appendToCsv = async (moviesData, movieTranslationsData, actorRolesData, mo
   await videosCsvData.toDisk(`../../tmdbdata/${csvTime}/videos-data.csv`, { append: true });
   const keywordsCsvData = new ObjectsToCsv(keywordsData);
   await keywordsCsvData.toDisk(`../../tmdbdata/${csvTime}/keywords-data.csv`, { append: true });
+  return true;
 }
 
 getMoviesFromTmdb();
