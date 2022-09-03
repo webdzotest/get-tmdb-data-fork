@@ -58,7 +58,7 @@ const getActorsDataFromTmdb = async () => {
 
 // Movies 
 
-const normalizeMovie = (data) => {
+const normalizeMovie = (data, nowDate) => {
   let movieData = {
     ref_id: data.id,
     adult_movie: data.adult,
@@ -70,12 +70,14 @@ const normalizeMovie = (data) => {
     revenue: data.revenue,
     duration: data.runtime,
     release_date: data.release_date,
+    created_at: nowDate,
+    updated_at: nowDate
   }
 
   return movieData;
 };
 
-const normalizeMovieData = (data, maxRefId) => {
+const normalizeMovieData = (data, maxRefId, nowDate) => {
   let translationsData = [];
   let imageData = [];
   let MovieActorData = [];
@@ -91,7 +93,9 @@ const normalizeMovieData = (data, maxRefId) => {
       identifier: item.iso_639_1,
       display_name: item.english_name,
       overview: item.data.overview,
-      title: item.data.title
+      title: item.data.title,
+      created_at: nowDate,
+      updated_at: nowDate
     })
   });
 
@@ -106,14 +110,18 @@ const normalizeMovieData = (data, maxRefId) => {
       type: 'movie',
       department: item.known_for_department,
       order: item.order,
-      actor_id: item.id
+      actor_id: item.id,
+      created_at: nowDate,
+      updated_at: nowDate
     });
 
     MovieActorData.push({
       movie_id: maxRefId,
       actor_id: item.id,
       cast_name: item.original_name,
-      role_priority: item.order
+      role_priority: item.order,
+      created_at: nowDate,
+      updated_at: nowDate
     });
   });
 
@@ -127,7 +135,9 @@ const normalizeMovieData = (data, maxRefId) => {
       type: 'movie',
       department: item.department,
       job: item.job,
-      actor_id: item.id
+      actor_id: item.id,
+      created_at: nowDate,
+      updated_at: nowDate
     })
   });
 
@@ -137,7 +147,9 @@ const normalizeMovieData = (data, maxRefId) => {
       url: `https://image.tmdb.org/t/p/original/${item.file_path}`,
       type: 'movie',
       movie_tv_id: maxRefId,
-      img_type: 'backdrop'
+      img_type: 'backdrop',
+      created_at: nowDate,
+      updated_at: nowDate
     })
   })
 
@@ -146,7 +158,9 @@ const normalizeMovieData = (data, maxRefId) => {
       url: `https://image.tmdb.org/t/p/w500/${item.file_path}`,
       type: 'movie',
       movie_tv_id: maxRefId,
-      img_type: 'logo'
+      img_type: 'logo',
+      created_at: nowDate,
+      updated_at: nowDate
     })
   });
 
@@ -155,7 +169,9 @@ const normalizeMovieData = (data, maxRefId) => {
       url: `https://image.tmdb.org/t/p/w500/${item.file_path}`,
       type: 'movie',
       movie_tv_id: maxRefId,
-      img_type: 'poster'
+      img_type: 'poster',
+      created_at: nowDate,
+      updated_at: nowDate
     })
   });
 
@@ -168,7 +184,9 @@ const normalizeMovieData = (data, maxRefId) => {
       source: item.site,
       source_url: item.site == 'YouTube' ? `https://www.youtube.com/watch?v=${item.key}` : '',
       created_at: item.published_at,
-      type: item.type
+      type: item.type,
+      created_at: nowDate,
+      updated_at: nowDate
     })
   })
 
@@ -176,7 +194,9 @@ const normalizeMovieData = (data, maxRefId) => {
     keywordData.push({
       name: item.name.toLowerCase(),
       media_type: 'movie',
-      movie_tv_id: maxRefId
+      movie_tv_id: maxRefId,
+      created_at: nowDate,
+      updated_at: nowDate
     })
   })
 
@@ -202,12 +222,13 @@ const getMoviesFromTmdb = async () => {
     // TMDB API's throws an error ECONNRESET sometimes. So we are retrying it for sometimes.
   for(let movie of tmdbMoviesData) {
     let movie_id = movie.id;
+    var nowDate = new Date().toISOString().slice(0, 19).replace("T", " ");
     try{
       let response = await axios.get(`https://api.themoviedb.org/3/movie/${movie_id}?api_key=${API_KEY}&${append_to_response}`, {timeout: axiosTimeout, validateStatus: false});
       if(response.status == 200) {
         let data = response.data;
-        let movieData = normalizeMovie(data);
-        let { translationsData, ActorRoleData, MovieActorData, ActorCrewData, imageData, videoData, keywordData } = normalizeMovieData(data, movieIncr);
+        let movieData = normalizeMovie(data, nowDate);
+        let { translationsData, ActorRoleData, MovieActorData, ActorCrewData, imageData, videoData, keywordData } = normalizeMovieData(data, movieIncr, nowDate);
         moviesData.push(movieData);
         movieTranslationsData.push(...translationsData);
         actorRolesData.push(...ActorRoleData);
