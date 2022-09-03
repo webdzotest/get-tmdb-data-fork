@@ -197,6 +197,7 @@ const getMoviesFromTmdb = async () => {
   var keywordsData = [];
   let startTime = new Date().toTimeString().slice(0, 8);
   console.log("StartTime::", startTime);
+  var csvTime = new Date().getTime();
   const append_to_response = "append_to_response=credits,images,keywords,translations,videos";
     // TMDB API's throws an error ECONNRESET sometimes. So we are retrying it for sometimes.
   for(let movie of tmdbMoviesData) {
@@ -222,7 +223,7 @@ const getMoviesFromTmdb = async () => {
     } catch(err) {
       console.log("Error on Movie::", movie_id);
       error_movies.push(movie_id);
-      await appendToCsv(moviesData, movieTranslationsData, actorRolesData, movieActorsData, actorCrewsData, imagesData, videosData, keywordsData);
+      await appendToCsv(moviesData, movieTranslationsData, actorRolesData, movieActorsData, actorCrewsData, imagesData, videosData, keywordsData, csvTime);
       moviesData = [], movieTranslationsData = [], actorRolesData = [], movieActorsData = [], actorCrewsData = [], imagesData = [], videosData = [], keywordsData = [];
       setTimeout(()=> {console.log("ERRCONNSET happened. Waiting for 3s...")}, 3000);
       continue;
@@ -230,13 +231,13 @@ const getMoviesFromTmdb = async () => {
   }
   let endTime = new Date().toTimeString().slice(0, 8);
   console.log("EndTime::", endTime);
-  await appendToCsv(moviesData, movieTranslationsData, actorRolesData, movieActorsData, actorCrewsData, imagesData, videosData, keywordsData);
+  await appendToCsv(moviesData, movieTranslationsData, actorRolesData, movieActorsData, actorCrewsData, imagesData, videosData, keywordsData, csvTime);
   console.log("Errored Movies");
   console.log(error_movies);
   return true;
 }
 
-const appendToCsv = async (moviesData, movieTranslationsData, actorRolesData, movieActorsData, actorCrewsData, imagesData, videosData, keywordsData) => {
+const appendToCsv = async (moviesData, movieTranslationsData, actorRolesData, movieActorsData, actorCrewsData, imagesData, videosData, keywordsData, csvTime) => {
   const moviesCsvData = new ObjectsToCsv(moviesData);
   await moviesCsvData.toDisk(`../../tmdbdata/${csvTime}/movies-data.csv`, { append: true });
   const translationsCsvData = new ObjectsToCsv(movieTranslationsData);
