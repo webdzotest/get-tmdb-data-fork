@@ -64,7 +64,7 @@ const normalizeMovie = (data, nowDate) => {
     adult_movie: data.adult,
     main_img: `https://image.tmdb.org/t/p/original/${data.poster_path}`,
     bg_img: `https://image.tmdb.org/t/p/original/${data.backdrop_path}`,
-    overview: data.overview,
+    overview: data.overview.replace(/\r?\n?/g, '').trim(),
     title: data.original_title,
     budget: data.budget,
     revenue: data.revenue,
@@ -92,8 +92,8 @@ const normalizeMovieData = (data, maxRefId, nowDate) => {
       name: item.name,
       identifier: item.iso_639_1,
       display_name: item.english_name,
-      overview: item.data.overview,
-      title: item.data.title,
+      overview: item.data.overview.replace(/\r?\n?/g, '').trim(),
+      title: item.data.title.replace(/\r?\n?/g, '').trim(),
       created_at: nowDate,
       updated_at: nowDate
     })
