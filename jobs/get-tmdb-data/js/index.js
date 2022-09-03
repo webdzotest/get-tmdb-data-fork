@@ -77,12 +77,12 @@ const normalizeMovie = (data) => {
 
 const normalizeMovieData = (data, maxRefId) => {
   let translationsData = [];
-  let imagesData = [];
+  let imageData = [];
   let MovieActorData = [];
   let ActorRoleData = [];
   let ActorCrewData = [];
-  let videosData = [];
-  let keywordsData = [];
+  let videoData = [];
+  let keywordData = [];
   // Translations Data
   data.translations.translations.map(item=> {
     translationsData.push({
@@ -133,7 +133,7 @@ const normalizeMovieData = (data, maxRefId) => {
 
   // Images Data
   data.images.backdrops.map(item=> {
-    imagesData.push({
+    imageData.push({
       url: `https://image.tmdb.org/t/p/original/${item.file_path}`,
       type: 'movie',
       movie_tv_id: maxRefId,
@@ -142,7 +142,7 @@ const normalizeMovieData = (data, maxRefId) => {
   })
 
   data.images.logos.map(item=> {
-    imagesData.push({
+    imageData.push({
       url: `https://image.tmdb.org/t/p/w500/${item.file_path}`,
       type: 'movie',
       movie_tv_id: maxRefId,
@@ -151,7 +151,7 @@ const normalizeMovieData = (data, maxRefId) => {
   });
 
   data.images.posters.map(item=> {
-    imagesData.push({
+    imageData.push({
       url: `https://image.tmdb.org/t/p/w500/${item.file_path}`,
       type: 'movie',
       movie_tv_id: maxRefId,
@@ -160,7 +160,7 @@ const normalizeMovieData = (data, maxRefId) => {
   });
 
   data.videos.results.map(item=> {
-    videosData.push({
+    videoData.push({
       language_code: item.iso_639_1,
       title: item.name,
       movie_tv_id: maxRefId,
@@ -173,7 +173,7 @@ const normalizeMovieData = (data, maxRefId) => {
   })
 
   data.keywords.keywords.map(item=> {
-    keywordsData.push({
+    keywordData.push({
       name: item.name.toLowerCase(),
       media_type: 'movie',
       movie_tv_id: maxRefId
@@ -181,7 +181,7 @@ const normalizeMovieData = (data, maxRefId) => {
   })
 
 
-  return { translationsData, ActorRoleData, MovieActorData, ActorCrewData, imagesData, videosData, keywordsData };
+  return { translationsData, ActorRoleData, MovieActorData, ActorCrewData, imageData, videoData, keywordData };
 }
 
 const getMoviesFromTmdb = async () => {
