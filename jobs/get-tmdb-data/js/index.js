@@ -2,7 +2,7 @@ const axios = require("axios").default;
 const ObjectsToCsv = require('objects-to-csv');
 const fs = require("fs");
 // let filename = "collection-5-d.json"
-let moviesRawData = fs.readFileSync(`../../tmdbdata/movies-some.json`);
+let moviesRawData = fs.readFileSync(`../../tmdbdata/movies-collection-1.json`);
 let tmdbMoviesData = JSON.parse(moviesRawData);
 const [, , API_KEY] = process.argv;
 const retries = 5;
@@ -88,7 +88,7 @@ const normalizeMovieData = (data, maxRefId, nowDate) => {
   // Translations Data
   data.translations.translations.map(item=> {
     translationsData.push({
-      movieId: maxRefId,
+      movie_id: maxRefId,
       name: item.name,
       identifier: item.iso_639_1,
       display_name: item.english_name,
