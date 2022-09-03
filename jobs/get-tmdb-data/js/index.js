@@ -209,13 +209,13 @@ const getMoviesFromTmdb = async () => {
         let movieData = normalizeMovie(data);
         let { translationsData, ActorRoleData, MovieActorData, ActorCrewData, imageData, videoData, keywordData } = normalizeMovieData(data, movieIncr);
         moviesData.push(movieData);
-        movieTranslationsData.push(translationsData);
-        actorRolesData.push(ActorRoleData);
-        movieActorsData.push(MovieActorData);
-        actorCrewsData.push(ActorCrewData);
-        imagesData.push(imageData);
-        videosData.push(videoData);
-        keywordsData.push(keywordData);
+        movieTranslationsData.push(...translationsData);
+        actorRolesData.push(...ActorRoleData);
+        movieActorsData.push(...MovieActorData);
+        actorCrewsData.push(...ActorCrewData);
+        imagesData.push(...imageData);
+        videosData.push(...videoData);
+        keywordsData.push(...keywordData);
         movieIncr+=1;
       } else {
         console.log("Cannot fetch movie data:",movie_id);
