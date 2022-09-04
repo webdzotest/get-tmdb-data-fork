@@ -13,7 +13,11 @@ jobs:
         
       - name: Increase Buffer Size
         run: git config --global http.postBuffer 2147483648
-      
+
+      - name: Enable LFS
+        run: |
+          git lfs install && git lfs track "*.csv" && git add .gitattributes
+
       - name: Set Node.js
         uses: actions/setup-node@v2
         with:
