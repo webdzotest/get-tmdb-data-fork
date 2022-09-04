@@ -1,7 +1,7 @@
 const axios = require("axios").default;
 const ObjectsToCsv = require('objects-to-csv');
 const fs = require("fs");
-let filename = "movies-collection-2-a";
+let filename = "movies-collection-2-b";
 let moviesRawData = fs.readFileSync(`../../tmdbdata/${filename}.json`);
 let tmdbMoviesData = JSON.parse(moviesRawData);
 const [, , API_KEY] = process.argv;
