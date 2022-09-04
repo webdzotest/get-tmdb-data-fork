@@ -61,7 +61,7 @@ const getActorsDataFromTmdb = async () => {
 const normalizeMovie = (data, nowDate) => {
   let movieData = {
     ref_id: data.id,
-    adult_movie: data.adult,
+    adult_movie: data.adult == true ? 1 : 0,
     main_img: `https://image.tmdb.org/t/p/original/${data.poster_path}`,
     bg_img: `https://image.tmdb.org/t/p/original/${data.backdrop_path}`,
     overview: data.overview.replace(/\r?\n?/g, '').trim(),
