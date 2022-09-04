@@ -10,6 +10,8 @@ jobs:
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
+        
+      - name: Increase Buffer Size
         run: git config --global http.postBuffer 2147483648
       
       - name: Set Node.js
